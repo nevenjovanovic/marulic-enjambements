@@ -172,50 +172,50 @@
             <div type="liber" met="hexameter" n="1">
               <head xml:id="section2.2"/>
 
-              <l enjamb="4">Dauidis memorare pii gesta inclyta regis</l>
-              <l enjamb="4">Instituo. Quis nunc dignas in carmina uires </l>
-              <l enjamb="4">Suppeditet? Non Cyrrheę de uertice rupis </l>
+              <l enjamb="4b">Dauidis memorare pii gesta inclyta regis</l>
+              <l enjamb="4b">Instituo. Quis nunc dignas in carmina uires </l>
+              <l enjamb="4a">Suppeditet? Non Cyrrheę de uertice rupis </l>
               <l enjamb="3">Descendens lauroque caput pręcinctus Apollo, </l>
                <l n="1.5" enjamb="3"> Non Nysę numen, furiata mente Lyęus, </l>
-              <l enjamb="4">Pieridumque chorus. Nam non ego dicere Troię </l>
-              <l enjamb="4">Excidium Thebasue paro nec sparsa cruore </l>
+              <l enjamb="4b">Pieridumque chorus. Nam non ego dicere Troię </l>
+              <l enjamb="4b">Excidium Thebasue paro nec sparsa cruore </l>
               <l>Thessala Romano bellis ciuilibus arua, </l>
-              <l enjamb="4">Sed cęlo cognatum opus arcanisque sacratum </l>
+              <l enjamb="4b">Sed cęlo cognatum opus arcanisque sacratum </l>
                <l n="1.10" enjamb="3"> Mysteriis. Quorum qui solus crederis autor, </l>
               <l>Solus, magne deus, mihi iam cantanda ministres. </l>
               <note place="margin">Iudei</note>
               <l enjamb="3"> Gens quondam Iudea potens opibusque uirisque,</l>
-              <l enjamb="4">Orbe sub Eoo residens, non inscia uerę </l>
-              <l enjamb="4">Religionis erat; ritus moremque sacrorum </l>
-               <l n="1.15" enjamb="4"> Edidicit monstrante deo, referentibus ipsis </l>
+              <l enjamb="4b">Orbe sub Eoo residens, non inscia uerę </l>
+              <l enjamb="4a">Religionis erat; ritus moremque sacrorum </l>
+               <l n="1.15" enjamb="4b"> Edidicit monstrante deo, referentibus ipsis </l>
               <l>E cęlo afflatis certissima quęque prophetis. </l>
-              <l>Hinc unum celebrare deum, uirtute creata </l>
-              <l enjamb="4">Cuius cuncta forent, coepit, terramque polumque </l>
+              <l ana="4b">Hinc unum celebrare deum, uirtute creata </l>
+              <l enjamb="4b">Cuius cuncta forent, coepit, terramque polumque </l>
               <l>Qui regat et sensus cunctis uitamque ministret. </l>
-               <l n="1.20" enjamb="3"> Quos uero gentes alię populique colebant, </l>
-              <l enjamb="3">Hos non esse deos, sed prorsus demonas ipsos, </l>
-              <l enjamb="3">Quorum homines capti iam pridem fraudibus errant </l>
+               <l n="1.20" enjamb="4a"> Quos uero gentes alię populique colebant, </l>
+              <l enjamb="4a">Hos non esse deos, sed prorsus demonas ipsos, </l>
+              <l enjamb="4a">Quorum homines capti iam pridem fraudibus errant </l>
               <l>Vix numeranda suis uenerantes numina uotis. </l>
-              <l enjamb="4">Ergo Iudaicę primus moderamina gentis </l>
+              <l enjamb="4a">Ergo Iudaicę primus moderamina gentis </l>
               <note place="margin">Saul rex</note>
               <l n="1.25" enjamb="3"> Ciso natus Saul et regni sceptra tenebat,</l>
               <l enjamb="3">Non recto officio nixus nec legibus ęquis, </l>
               <note place="margin">Samuel propheta</note>
-              <l enjamb="4"> Quum Samuel uates dictis mordacibus illum</l>
-              <l enjamb="3">Aggrediens et facta deo non grata reuoluens </l>
-              <l enjamb="4">Hęc responsa dedit: "Quoniam tibi certa Tonantis </l>
-               <l n="1.30" enjamb="3"> Iussa sequi nulli fuerit post talia curę, </l>
-              <l enjamb="4">Isto te indignum, quo te dignatus honore est, </l>
-              <l enjamb="4">Censuit atque alium, regni cui tradat habenas, </l>
-              <l enjamb="4">Iam sibi prospexit successoremque regendo </l>
+              <l enjamb="4b"> Quum Samuel uates dictis mordacibus illum</l>
+              <l enjamb="4a">Aggrediens et facta deo non grata reuoluens </l>
+              <l enjamb="4b">Hęc responsa dedit: "Quoniam tibi certa Tonantis </l>
+               <l n="1.30" enjamb="4a"> Iussa sequi nulli fuerit post talia curę, </l>
+              <l enjamb="4a">Isto te indignum, quo te dignatus honore est, </l>
+              <l enjamb="4a">Censuit atque alium, regni cui tradat habenas, </l>
+              <l enjamb="4b">Iam sibi prospexit successoremque regendo </l>
               <l enjamb="3">Constituit populo, notum pietate fideque, </l>
-              <note place="margin"> nota</note>
-              <l n="1.35" enjamb="4"> Quanquam humili de plebe uirum. Sed sanguinis omnes</l>
+              <note place="margin">nota</note>
+              <l n="1.35" enjamb="4b"> Quanquam humili de plebe uirum. Sed sanguinis omnes</l>
               <l>Exuperat tenebras cum laudum lumine uirtus. </l>
-              <l enjamb="4">Hęc effatus abit moestum tristemque relinquens </l>
+              <l enjamb="4b">Hęc effatus abit moestum tristemque relinquens </l>
               <l>Iam Saulem et multa perculsum pectora cura. </l>
-              <l enjamb="4">At quia continuo tali pro crimine poena </l>
-               <l n="1.40" enjamb="4"> Non inflicta fuit, iussus rex perdere gentem </l>
+              <l enjamb="4b">At quia continuo tali pro crimine poena </l>
+               <l n="1.40" enjamb="4b"> Non inflicta fuit, iussus rex perdere gentem </l>
               <l enjamb="3">Amalechitarum, rursum mandata reliquit, </l>
               <l enjamb="3">Rursum iussa dei temnens seruauit Agagum, </l>
               <l enjamb="3">Victor commisso captum certamine regem, </l>
@@ -224,75 +224,75 @@
               <l enjamb="3">Sed frustra excusat facinus damnante propheta, </l>
               <note place="margin">Saul</note>
               <l enjamb="3"> "Ignouisse uiro pietas me compulit," inquit</l>
-              <l enjamb="3">"Illęsas autem pecudes dimittere suasit </l>
+              <l enjamb="4a">"Illęsas autem pecudes dimittere suasit </l>
               <l>Religio, ut sacras stet plurima uictima ad aras." — </l>
               <note place="margin">Samuel</note>
-              <l n="1.50" enjamb="4"> "Falleris" exclamat Samuel "uanoque fauore</l>
-              <l enjamb="4">Facta iniusta tegis, quoniam non gratior ulla est </l>
-              <l enjamb="4">Cęlicolum regi, sacris quę imponitur aris, </l>
-              <l enjamb="4">Hostia quam semper studio curaque fideli </l>
-              <l enjamb="4">Imperio parere suo. Quod spernere quum sis </l>
-               <l n="1.55" enjamb="4"> Ausus, et ipse tuum de regno tollere nomen </l>
-              <l enjamb="4">Ac Beniaminam sobolem postponere Iudę </l>
+              <l n="1.50" enjamb="4a"> "Falleris" exclamat Samuel "uanoque fauore</l>
+              <l enjamb="4b">Facta iniusta tegis, quoniam non gratior ulla est </l>
+              <l enjamb="4a">Cęlicolum regi, sacris quę imponitur aris, </l>
+              <l enjamb="4a">Hostia quam semper studio curaque fideli </l>
+              <l enjamb="4b">Imperio parere suo. Quod spernere quum sis </l>
+               <l n="1.55" enjamb="4a"> Ausus, et ipse tuum de regno tollere nomen </l>
+              <l enjamb="4a">Ac Beniaminam sobolem postponere Iudę </l>
               <l>Decreuit, Iudę regem de stirpe creare." </l>
-              <l enjamb="4">Hęc ait indignans regemque relinquere uerso </l>
-              <l enjamb="4">Inde parat tergo. Vetat hoc et abire uolentem </l>
-               <l n="1.60" enjamb="4"> Apprendit Saul apprensaque lacinia uestis </l>
-              <l enjamb="4">Implicita est digitis et, dum conamine pannus </l>
-              <l enjamb="4">Diuerso trahitur, geminas distentus utrinque </l>
-              <l enjamb="4">Laxat se in partes. Subitum scissura fragorem </l>
-              <l enjamb="4">Increpuit causamque dedit magis apta loquendi </l>
+              <l enjamb="4b">Hęc ait indignans regemque relinquere uerso </l>
+              <l enjamb="4a">Inde parat tergo. Vetat hoc et abire uolentem </l>
+               <l n="1.60" enjamb="4a"> Apprendit Saul apprensaque lacinia uestis </l>
+              <l enjamb="4b">Implicita est digitis et, dum conamine pannus </l>
+              <l enjamb="4b">Diuerso trahitur, geminas distentus utrinque </l>
+              <l enjamb="4b">Laxat se in partes. Subitum scissura fragorem </l>
+              <l enjamb="4a">Increpuit causamque dedit magis apta loquendi </l>
               <note place="margin">Samuel</note>
-              <l n="1.65" enjamb="3"> Fatidico uati: "Sic, sic" ait "ipse deum rex,</l>
+              <l n="1.65" enjamb="4a"> Fatidico uati: "Sic, sic" ait "ipse deum rex,</l>
               <l enjamb="3">Quem dederat quondam, sceptri tibi scindet honorem, </l>
-              <l enjamb="3">Impositusque tuo solio dominabitur alter </l>
+              <l enjamb="4a">Impositusque tuo solio dominabitur alter </l>
               <l>Te melior multaque super uirtute ferendus." </l>
               <l enjamb="3">Rex metuens commissa palam trepidusque fatetur </l>
                <l n="1.70" enjamb="3"> Submissoque genu diuinum numen adorat </l>
               <l>Ignoscique sibi poscit ueniamque precatur. </l>
-              <l enjamb="4">Captiuum interea produci mandat Agagum </l>
+              <l enjamb="4a">Captiuum interea produci mandat Agagum </l>
               <note place="margin">Agagus rex interficitur</note>
-              <l enjamb="3"> Coram se Samuel fatisque potentibus actus</l>
+              <l enjamb="4a"> Coram se Samuel fatisque potentibus actus</l>
               <l>In frusta educto discidit protinus ense. </l>
-               <l n="1.75" enjamb="4"> Corruit in terram fuso miseranda cruore </l>
-              <l enjamb="4">Victima deque suo disectis corpore membris </l>
+               <l n="1.75" enjamb="4b"> Corruit in terram fuso miseranda cruore </l>
+              <l enjamb="4a">Victima deque suo disectis corpore membris </l>
               <l>Ablataque uiri forma deforme cadauer. </l>
               <note place="margin">Galgala</note>
               <l enjamb="3"> Galgala tunc Saulem multa cum plebe tenebat,</l>
-              <l enjamb="3">Vrbs geminis uicina iugis, hac parte Gebalum, </l>
+              <l enjamb="4a">Vrbs geminis uicina iugis, hac parte Gebalum, </l>
                <l n="1.80"> Illa prospiciens uiridantem fronde Garizim. </l>
-              <l enjamb="3">Illic cęde pius uates ubi iussa peregit, </l>
+              <l enjamb="4a">Illic cęde pius uates ubi iussa peregit, </l>
               <l enjamb="3">Iussa uerenda dei, Ramatę sua tecta petiuit </l>
-              <l enjamb="3">Saulis fata dolens. Sed cęlo uenit ab alto </l>
-              <l enjamb="4">Ipse deus uerbisque prius quod dixerat, illud </l>
+              <l enjamb="4a">Saulis fata dolens. Sed cęlo uenit ab alto </l>
+              <l enjamb="4b">Ipse deus uerbisque prius quod dixerat, illud </l>
               <note place="margin">Deus ad Samuelem</note>
-              <l n="1.85" enjamb="4"> Re facturus ait: "Samuel fidissime, quid tu</l>
-              <l enjamb="4">Profusis Saulem lachrymis gemis, improba cuius </l>
-              <l enjamb="4">Dextra meum toties prauis despexerit ausis </l>
-              <l enjamb="4">Imperium legique meę qui tendere contra </l>
-              <l enjamb="3">Nil timuit? Populone pio dominarier illum </l>
+              <l n="1.85" enjamb="4b"> Re facturus ait: "Samuel fidissime, quid tu</l>
+              <l enjamb="4b">Profusis Saulem lachrymis gemis, improba cuius </l>
+              <l enjamb="4b">Dextra meum toties prauis despexerit ausis </l>
+              <l enjamb="4a">Imperium legique meę qui tendere contra </l>
+              <l enjamb="4a">Nil timuit? Populone pio dominarier illum </l>
                <l n="1.90" enjamb="3"> Ius tu fasque putas? Quin talem comprime luctum </l>
               <l>Atque hęc nostra modo mandata facessere perge.</l>
               <note place="margin">Iesseus, Dauidis pater</note>
               <l enjamb="3"> Est Iesseus, magni genus alto a sanguine Iudę,</l>
-              <l enjamb="4">Intra Bethlemos domus ipsi condita muros </l>
-              <l enjamb="4">Illa parte manet, quę spectat lampada Solis </l>
+              <l enjamb="4a">Intra Bethlemos domus ipsi condita muros </l>
+              <l enjamb="4b">Illa parte manet, quę spectat lampada Solis </l>
                <l n="1.95"> Fulgentem, quoties Eoo surgit ab orbe. </l>
-              <l enjamb="3">Illo te transfer natorumque agminis unum, </l>
-              <l enjamb="4">Quem placuisse mihi nosces, hunc chrismate regem </l>
+              <l enjamb="4a">Illo te transfer natorumque agminis unum, </l>
+              <l enjamb="4b">Quem placuisse mihi nosces, hunc chrismate regem </l>
               <l>Vnge sacro sceptrumque manu da nobile ferre." </l>
-              <l enjamb="4">Hęc dicente deo Samuel stetit ore trementi </l>
-               <l n="1.100" enjamb="3"> Expauidoque diu. Postquam sibi reddita mens est, </l>
+              <l enjamb="4a">Hęc dicente deo Samuel stetit ore trementi </l>
+               <l n="1.100" enjamb="4a"> Expauidoque diu. Postquam sibi reddita mens est, </l>
               <l enjamb="3">Ędidit has dubio promptas de pectore uoces: </l>
               <note place="margin">Samuel respondet</note>
-              <l enjamb="4"> "Magne pater, quid me tam certa pericula uitę</l>
-              <l enjamb="4">Attentare iubes? Huius si forte negoci </l>
-              <l enjamb="4">Consilium scierit, multam Saul actus in iram </l>
+              <l enjamb="4a"> "Magne pater, quid me tam certa pericula uitę</l>
+              <l enjamb="4b">Attentare iubes? Huius si forte negoci </l>
+              <l enjamb="4a">Consilium scierit, multam Saul actus in iram </l>
                <l n="1.105"> Protinus, heu, tristi claudet mea lumina letho." — </l>
-              <l enjamb="3">"At tu" numen ait "uitulam cape 'pergoque', dices, </l>
+              <l enjamb="4a">"At tu" numen ait "uitulam cape 'pergoque', dices, </l>
               <l>'Sacrum ferre deo', hac eludes arte superbum. </l>
-              <l enjamb="4">Quum facies vitula, Iesseum ad sacra uocabis </l>
-              <l enjamb="3">Ipsum progeniemque omnem. Tunc protinus illum, </l>
+              <l enjamb="4b">Quum facies vitula, Iesseum ad sacra uocabis </l>
+              <l enjamb="4a">Ipsum progeniemque omnem. Tunc protinus illum, </l>
                <l n="1.110" enjamb="3"> Quem tibi monstraro, liquido sacrabis oliuo </l>
               <l>Vtque meo pręsit populo plebique, iubebis." </l>
               <l enjamb="4">Tunc demum Samuel pecus atque armenta reuisens </l>
