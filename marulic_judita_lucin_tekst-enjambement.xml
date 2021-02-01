@@ -1603,12 +1603,12 @@
             </div>    
             <div type="canto" n="5">
                <head rend="center">LIBRO PETO</head>
-               <l n="5.1" enjamb="4">Oloferne, pokol tej riči zgovori,</l>
-               <l n="5.2" enjamb="4">	Tim ki stahu okol reče: “U komori,</l>
-               <l n="5.3" enjamb="3">	Gdino su zatvori blagu sakrovitu</l>
+               <l n="5.1" enjamb="4a">Oloferne, pokol tej riči zgovori,</l>
+               <l n="5.2" enjamb="4a">	Tim ki stahu okol reče: “U komori,</l>
+               <l n="5.3" enjamb="4a">	Gdino su zatvori blagu sakrovitu</l>
                <l n="5.4" enjamb="3">	I tvardi zapori, povedʼte Juditu,*<note place="margin">
                      <hi rend="bold">4*</hi>  Kako Oloferne odredi stan Juditi osoba i dȃ milost da u noći more izhoditi moliti Boga svoga.</note></l>
-               <l n="5.5" enjamb="4">Ka po svojem svȉtu, u komno nȋ starvi,				5</l>
+               <l n="5.5" enjamb="4a">Ka po svojem svȉtu, u komno nȋ starvi,				5</l>
                <l n="5.6">	Zemlju zlata situ dat nam će prez karvi.</l>
                <l n="5.7" enjamb="3">	Davajte joj parvi dil jistve i kruha</l>
                <l n="5.8">	Ki se meni marvi, ka se meni kuha.”</l>
@@ -1617,71 +1617,71 @@
                      <hi rend="bold">10*</hi>  Da se ne ockvarni jidući ča biše branjeno u zakonu.</note>			10</l>
                <l n="5.11" enjamb="3">	Da jisti ću ovoga ča vo s sobom nosim,</l>
                <l n="5.12" enjamb="3">	Za da prȋ onoga, ča tʼ rekoh, isprosim</l>
-               <l n="5.13" enjamb="4">I još da priprosim da spiši te strane</l>
+               <l n="5.13" enjamb="4b">I još da priprosim da spiši te strane</l>
                <l n="5.14">	Dati tʼ Bog, ke mnozim po svitu su znane.”</l>
-               <l n="5.15" enjamb="4">	On reče: “Tej hrane ča ćeš učiniti				15</l>
+               <l n="5.15" enjamb="4b">	On reče: “Tej hrane ča ćeš učiniti				15</l>
                <l n="5.16">	Kada ti nestane, o čem ćeš živiti?”</l>
-               <l n="5.17" enjamb="4">Ona se rotiti priča ponasmihnuv</l>
-               <l n="5.18" enjamb="4">	Da brašno saspiti ko doni pribignuv</l>
-               <l n="5.19" enjamb="4">	Neće, dokla dvignuv ruku svȗ ne svarši</l>
+               <l n="5.17" enjamb="4a">Ona se rotiti priča ponasmihnuv</l>
+               <l n="5.18" enjamb="4b">	Da brašno saspiti ko doni pribignuv</l>
+               <l n="5.19" enjamb="4a">	Neće, dokla dvignuv ruku svȗ ne svarši</l>
                <l n="5.20">	I počine stignuv ča misal nje varši.				20</l>
-               <l n="5.21" enjamb="3">Baruni odparvši vrata od ložišća</l>
-               <l n="5.22" enjamb="3">	I svuda nastarvši sviona krovišća,</l>
+               <l n="5.21" enjamb="4a">Baruni odparvši vrata od ložišća</l>
+               <l n="5.22" enjamb="4a">	I svuda nastarvši sviona krovišća,</l>
                <l n="5.23">	Rekoše: “Hladišća tuj su tva, gospoje.”</l>
                <l n="5.24">	Ona se namišća i reče: “Dobro je.”</l>
-               <l n="5.25">Da parvo ovo je isprosila moleć:					25</l>
+               <l n="5.25" enjamb="3">Da parvo ovo je isprosila moleć:					25</l>
                <l n="5.26" enjamb="3">	Molitve dit svoje u noći ishodeć,</l>
                <l n="5.27" enjamb="3">	Da nitkor, odhodeć: “Kamo ćeš?”, reče joj,</l>
                <l n="5.28">	Ni opet dohodeć: “Od kud greš? Ča je toj?”</l>
-               <l n="5.29" enjamb="4">Toj biše dao njoj Oloferne, svojim</l>
-               <l n="5.30">	Vratarom tad takoj zapovid čine svim:			30</l>
-               <l n="5.31" enjamb="3">	Taj slobod dvima njim, Abri ter Juditi,</l>
+               <l n="5.29" enjamb="4b">Toj biše dao njoj Oloferne, svojim</l>
+               <l n="5.30" enjamb="3">	Vratarom tad takoj zapovid čine svim:			30</l>
+               <l n="5.31" enjamb="4a">	Taj slobod dvima njim, Abri ter Juditi,</l>
                <l n="5.32">	Da bude, ne inim, za tri dni služiti.</l>
                <l n="5.33" enjamb="3">Ona izhoditi jȃ k drȁgi slazeći,</l>
                <l n="5.34" enjamb="3">	K potoku hoditi vodom se čisteći,</l>
-               <l n="5.35" enjamb="3">	A pak uzlazeći Bogu se moljaše,				35</l>
+               <l n="5.35" enjamb="4a">	A pak uzlazeći Bogu se moljaše,				35</l>
                <l n="5.36" enjamb="3">	Da, puk slobodeći, spuni ča mišljaše.</l>
                <l n="5.37" enjamb="3">Za tim čista staše u komoru došad,</l>
-               <l n="5.38">	Ni se okusaše ner jur sunce zapad;</l>
-               <l n="5.39" enjamb="3">	Ko četvartom izšad svitlost svim ljudem dȃ,</l>
+               <l n="5.38" enjamb="3">	Ni se okusaše ner jur sunce zapad;</l>
+               <l n="5.39" enjamb="4a">	Ko četvartom izšad svitlost svim ljudem dȃ,</l>
                <l n="5.40">	I Oloferne tad dvor na večeru zva.*<note place="margin">
                      <hi rend="bold">40*</hi>  Kako Oloferne četvarti dan zva Juditu hoteći da s njim pribiva.</note>			40</l>
-               <l n="5.41" enjamb="3">Slugu Vagava sla da Juditi veli</l>
+               <l n="5.41" enjamb="4a">Slugu Vagava sla da Juditi veli</l>
                <l n="5.42" enjamb="3">	Da sram odvarže ta, da se k njemu seli</l>
                <l n="5.43" enjamb="3">	I, ča on uzveli, pristane učinit,</l>
-               <l n="5.44">	A dar, kino želi, svaki hoće imit;</l>
+               <l n="5.44" enjamb="3">	A dar, kino želi, svaki hoće imit;</l>
                <l n="5.45" enjamb="3">Jer mu će prirok bit da žena stoji tuj,				45</l>
                <l n="5.46">	A on da će živit želeć imiti njuj.</l>
                <l n="5.47" enjamb="3">	Pojde Vagav i suj besidu poni njoj:*<note place="margin">
                      <hi rend="bold">47*</hi>  Vagav, vratar Olofernov.</note></l>
-               <l n="5.48" enjamb="3">	“Vladiko”, reče, “u onuj jure komoru poj</l>
+               <l n="5.48" enjamb="4a">	“Vladiko”, reče, “u onuj jure komoru poj</l>
                <l n="5.49" enjamb="3">Gdino gospodin moj sedeći počiva,</l>
-               <l n="5.50" enjamb="3">Želeći obraz tvoj, ki suncu odsiva.				50</l>
+               <l n="5.50">Želeći obraz tvoj, ki suncu odsiva.				50</l>
                <l n="5.51" enjamb="3">	Zatoj te priziva da s njim i pješ i jiš,</l>
                <l n="5.52">	Da vesel pribiva dokol uza nj sidiš.”</l>
-               <l n="5.53" enjamb="3">“Ka sam ja, da barž mniš”, Judit odgovori,*<note place="margin">
+               <l n="5.53" enjamb="4a">“Ka sam ja, da barž mniš”, Judit odgovori,*<note place="margin">
                      <hi rend="bold">53*</hi>  Odgovori Judit Vagavu.</note></l>
                <l n="5.54">	“Da neću na pospiš pojt u toj komori?</l>
-               <l n="5.55" enjamb="4">	Ki su moji opori, da hizat uz ostan				55</l>
+               <l n="5.55" enjamb="4b">	Ki su moji opori, da hizat uz ostan				55</l>
                <l n="5.56">	Mogu, ali gori reć: ‘Niže mene stanʼ.ʼ</l>
-               <l n="5.57" enjamb="3">Budʼ poni dobro znan: ča je drago njemu,</l>
-               <l n="5.58">	Meni je kako man i slatko u svemu;</l>
+               <l n="5.57" enjamb="4a">Budʼ poni dobro znan: ča je drago njemu,</l>
+               <l n="5.58" enjamb="3">	Meni je kako man i slatko u svemu;</l>
                <l n="5.59" enjamb="3">	Raba ću bit temu za moga života,</l>
                <l n="5.60">	Ako mu sam čemu, zna njega dobrota.”		60</l>
-               <l n="5.61" enjamb="4">Takoj riči mota Judita, vesela</l>
-               <l n="5.62" enjamb="4">	Da je ta pohota Oloferna svela</l>
+               <l n="5.61" enjamb="4a">Takoj riči mota Judita, vesela</l>
+               <l n="5.62" enjamb="4b">	Da je ta pohota Oloferna svela</l>
                <l n="5.63" enjamb="3">	Na taka jur mela da će leći nice,</l>
                <l n="5.64">	A gradi i sela steći parvo lice.</l>
-               <l n="5.65" enjamb="3">Kad spusti udice ter zadije ribu,*<note place="margin">
+               <l n="5.65" enjamb="4a">Kad spusti udice ter zadije ribu,*<note place="margin">
                      <hi rend="bold">65*</hi>  Prilika.</note>					65</l>
-               <l n="5.66" enjamb="4">	Istežuć tunjice, mahne gori šibu</l>
+               <l n="5.66" enjamb="4a">	Istežuć tunjice, mahne gori šibu</l>
                <l n="5.67" enjamb="3">	Ribar i potribu ima jur dat ju van,</l>
-               <l n="5.68">	Radostan da hlibu smok mu je pripravan:</l>
-               <l n="5.69" enjamb="4">Tako, kad osnovan jur misli svoje teg</l>
+               <l n="5.68" enjamb="3">	Radostan da hlibu smok mu je pripravan:</l>
+               <l n="5.69" enjamb="4a">Tako, kad osnovan jur misli svoje teg</l>
                <l n="5.70" enjamb="3">	Vidi Judit, izvan urehe na se usteg				70</l>
                <l n="5.71" enjamb="3">	I skuta pouspreg, radosna pojde tad</l>
                <l n="5.72">	Da tuj, rukom poseg, osnovu otka sad.</l>
-               <l n="5.73" enjamb="3">Oloferne nju kad prid sobom ugleda,</l>
+               <l n="5.73" enjamb="4a">Oloferne nju kad prid sobom ugleda,</l>
                <l n="5.74">	U ljubavi zašad, sartce mu uspreda.</l>
                <l n="5.75" enjamb="3">	Slaja mu bȋ meda, da gorkost će žerat			75</l>
                <l n="5.76">	Studeniji leda kada bude ležat.</l>
@@ -1690,41 +1690,41 @@
                <l n="5.79" enjamb="3">	Njoj reče: “Obezom jesi me obezala,*<note place="margin">
                      <hi rend="bold">79*</hi>  Govori Oloferne Juditi posadiv ju kon sebe za večerom.</note></l>
                <l n="5.80">	Jer harlim potezom dojti si hajala.				80</l>
-               <l n="5.81" enjamb="4">Tim si dostojala da pri mni milosti</l>
+               <l n="5.81" enjamb="4a">Tim si dostojala da pri mni milosti</l>
                <l n="5.82">	Ku želiš imala budeš u radosti.</l>
                <l n="5.83" enjamb="3">	Sad vesela dosti sa mnom pij ter blaguj</l>
                <l n="5.84">	I s ovimi gosti obilo se počtuj.”</l>
                <l n="5.85" enjamb="3">Ona njemu ustuj zahvalivši reče:*<note place="margin">
                      <hi rend="bold">85*</hi>  Odgovara Judit.</note>					85</l>
-               <l n="5.86" enjamb="4">	“Veselo ću stvar tuj učinit, jer steče</l>
+               <l n="5.86" enjamb="4a">	“Veselo ću stvar tuj učinit, jer steče</l>
                <l n="5.87" enjamb="3">	Blagost pokol čeče uza te raba tva,</l>
                <l n="5.88">	Ka želi da kleče prida te zemlja sva.”</l>
-               <l n="5.89" enjamb="4">Tad pi i blagova ča biše opravila</l>
+               <l n="5.89" enjamb="4b">Tad pi i blagova ča biše opravila</l>
                <l n="5.90">	Abra i gotova prida nju stavila.				90</l>
                <l n="5.91" enjamb="3">	Meu tim je nudila njega da ji i pje</l>
                <l n="5.92" enjamb="3">	Ter ga veselila da se većma nalʼje,</l>
                <l n="5.93" enjamb="3">Da kada se opje, zaspi i zahrope,</l>
                <l n="5.94">	Požre takoj osje, da veće ne sope.</l>
-               <l n="5.95" enjamb="3">	O, kino se tope u žartju mnogomu,			95</l>
+               <l n="5.95" enjamb="4a">	O, kino se tope u žartju mnogomu,			95</l>
                <l n="5.96">	Vijte kako ope život sad ovomu!*<note place="margin">
                      <hi rend="bold">96*</hi>  Govorenʼje protiv zalihu žartju i pitju.</note></l>
-               <l n="5.97" enjamb="3">Ne njemu samomu grih je ta naudil,</l>
+               <l n="5.97" enjamb="4a">Ne njemu samomu grih je ta naudil,</l>
                <l n="5.98">	Da jošće svakomu u kom je kada bil.</l>
                <l n="5.99" enjamb="3">	S toga je izgubil Adam s Evom milost,</l>
                <l n="5.100">	Ku je najpri jimil, svih vargši u žalost.			100</l>
                <l n="5.101" enjamb="3">Noe svoju sramost odkrivši grubo spa</l>
                <l n="5.102">	Kad ga obali jakost vina ko garlu dȃ.*<note place="margin">
                      <hi rend="bold">102*</hi>  Noe opi se i zaspa odkriven. Kama sina prokle jer se naruga; Sema i Jafeta blagoslovi, ki ga pokriše.</note></l>
-               <l n="5.103" enjamb="3">	Lota kad pjanost jȃ, ne znajuć spi uz kih,</l>
+               <l n="5.103" enjamb="4a">	Lota kad pjanost jȃ, ne znajuć spi uz kih,</l>
                <l n="5.104">	Mȃ njih, kim biše ćȃ, čini sinov svojih.*<note place="margin">
                      <hi rend="bold">104*</hi>  Lot[a] hćere opojiše, s pijanim spaše i rodiše. Starija rodi Moaba, od koga bȋ narod od Moabiti, mlaja rodi Amona, od koga bȋ narod od Amoniti.  Zato di: oni kim biše ćȃ, a to otac, učini jih mȃ, a to matere svojih sinov.</note></l>
                <l n="5.105" enjamb="3">Ezau liše tih parvorojenʼja čast					105</l>
                <l n="5.106" enjamb="3">	I blagoslovi svih otčevih zgubi slast,</l>
-               <l n="5.107" enjamb="4">	Jer davši garlu vlast prȋ voli požriti</l>
+               <l n="5.107" enjamb="4a">	Jer davši garlu vlast prȋ voli požriti</l>
                <l n="5.108">	Od zdile jedne mast ner sve to imiti.*<note place="margin">
                      <hi rend="bold">108*</hi>  Ezav za zdilu leće proda prav parvorojenʼja svoga bratu Jakobu. Tim izgubi otčev blagoslov.</note></l>
-               <l n="5.109" enjamb="4">Puk Božji živiti o pići nebeskoj</l>
-               <l n="5.110">	Počan, jȃ marziti, objistan jur, na toj;			110</l>
+               <l n="5.109" enjamb="4b">Puk Božji živiti o pići nebeskoj</l>
+               <l n="5.110" enjamb="3">	Počan, jȃ marziti, objistan jur, na toj;			110</l>
                <l n="5.111" enjamb="3">	Egipskih lonac loj želeći ushvali,</l>
                <l n="5.112">	I njih mnozih zatoj Bog smartno popali.*<note place="margin">
                      <hi rend="bold">112*</hi>  Ovo bȋ kad od Egipta diliv se gredihu pustinjom s Mojzesom.</note></l>
@@ -1734,37 +1734,37 @@
                <l n="5.116">	Jer ne poja stropa na njih nepodobstvo.*<note place="margin">
                      <hi rend="bold">116*</hi>  Sini Hele popa umicahu meso onim ki činjahu posvetilišća. Cić toga biše ubijeni od neprijatelj, a od njegove kuće veće ne bȋ pop, jer jih ne pokara kako imaše.</note></l>
                <l n="5.117" enjamb="3">Vino ter oholstvo Aleksandra smami</l>
-               <l n="5.118" enjamb="4">	Tako da ubojstvo svojimi rukami</l>
+               <l n="5.118" enjamb="4a">	Tako da ubojstvo svojimi rukami</l>
                <l n="5.119" enjamb="3">	Stvori, pak suzami lica gorko umi,</l>
                <l n="5.120">	Obujat tugami: toko draga ubi.*<note place="margin">
                      <hi rend="bold">120*</hi>  Aleksandar pjan ubi Klita, baruna svoga. Kada se razabra jutri dan, jȃ pitati gdi je Klit i od žalosti ne htiše jisti, hteći i sam umriti, da ini ga pripraviše.</note>				120</l>
                <l n="5.121" enjamb="3">Centaure pogubi Peritov s Lafiti,</l>
-               <l n="5.122" enjamb="3">	Jer hvataje zubi, jur pjani i siti,</l>
-               <l n="5.123" enjamb="3">	Onih kih počtiti njih dostojaše se</l>
+               <l n="5.122" enjamb="4a">	Jer hvataje zubi, jur pjani i siti,</l>
+               <l n="5.123" enjamb="4a">	Onih kih počtiti njih dostojaše se</l>
                <l n="5.124">	Za žene zaditi ne sramovaše se.*<note place="margin">
                      <hi rend="bold">124*</hi>  Centaure, ki s njim mejašahu, zva na svoj pir Peritov, kralj od Lafiti. Oni, objivši se i opivši, pohitiše za žene. Za to ih pobi.</note></l>
-               <l n="5.125" enjamb="4">Saki zgubiše se kad u Cirov okol					125</l>
-               <l n="5.126" enjamb="4">	Stupiv objiše se, opiše, i pokol</l>
+               <l n="5.125" enjamb="4a">Saki zgubiše se kad u Cirov okol					125</l>
+               <l n="5.126" enjamb="4b">	Stupiv objiše se, opiše, i pokol</l>
                <l n="5.127">	Legoše kako vol, on na nje napusti,</l>
                <l n="5.128">	Razbi jih, dȃ jim bol, živih jih ne pusti.*<note place="margin">
                      <hi rend="bold">128*</hi>  Saki jest bio niki narod u Perziju, kih budući vojska mnoga, kralj Cir od Perzije čini se bižati  ter jim pusti okol pun vina i brašna svakoga. Oni sedoše tuj piti i jisti. Kad biše puni, razlegoše se. On na nje pripusti i pobi jih.</note></l>
                <l n="5.129" enjamb="3">Vino život shusti Lacida i Krizipa,</l>
                <l n="5.130">	Mudrost od njih usti  začarni taj sipa.			130</l>
-               <l n="5.131">	Taj konac opipa pitanski Arceslav:*<note place="margin">
+               <l n="5.131" enjamb="3">	Taj konac opipa pitanski Arceslav:*<note place="margin">
                      <hi rend="bold">131*</hi>  Lacid, Krizip, Arceslav: toj su bili naučeni filozofi, da garlu se daše. Niki, diju, umri vino pijući, a niki cić toga u tarpiju upadši pogibe.</note></l>
                <l n="5.132">	I on pjan udipa u Karonovu plav.*<note place="margin">
                      <hi rend="bold">132*</hi>  Karon je ki brodi duše u paklu, kako diju poeti.</note></l>
-               <l n="5.133" enjamb="3">Toj se hudinji dav Antiok, moguć kralj,</l>
-               <l n="5.134" enjamb="3">	Jaki kakono lav, s kimi je za stol stal,</l>
-               <l n="5.135" enjamb="4">	Bȋ jih pjan; bȋ njim žal, tarpiti ne htiše			135</l>
+               <l n="5.133" enjamb="4a">Toj se hudinji dav Antiok, moguć kralj,</l>
+               <l n="5.134" enjamb="4a">	Jaki kakono lav, s kimi je za stol stal,</l>
+               <l n="5.135" enjamb="4a">	Bȋ jih pjan; bȋ njim žal, tarpiti ne htiše			135</l>
                <l n="5.136">	Sramotu i pečal ter ti ga ubiše.*<note place="margin">
                      <hi rend="bold">136*</hi>  Antiok, kralj od Sirije, ki Rimnjanom rat učini, pjan bȋ svojih, a oni ga ubiše.</note></l>
-               <l n="5.137" enjamb="3">Bolje ti mu biše u boj smart prijati</l>
-               <l n="5.138" enjamb="3">	Još kada imiše sa Rimnjani rati,</l>
+               <l n="5.137" enjamb="4a">Bolje ti mu biše u boj smart prijati</l>
+               <l n="5.138" enjamb="4a">	Još kada imiše sa Rimnjani rati,</l>
                <l n="5.139" enjamb="3">	Nere živu stati do stotin lit roka,</l>
                <l n="5.140">	Pak konac imati tolika priroka.				140</l>
-               <l n="5.141" enjamb="4">Raskoša obroka i vina ko sarka</l>
-               <l n="5.142">	Učini žestoka Antonija Marka:</l>
+               <l n="5.141" enjamb="4a">Raskoša obroka i vina ko sarka</l>
+               <l n="5.142" enjamb="3">	Učini žestoka Antonija Marka:</l>
                <l n="5.143" enjamb="3">	Silan po Rim tarka vlastele koljući,</l>
                <l n="5.144">	Njih blago raztarka kuhačem dajući.</l>
                <l n="5.145" enjamb="3">Toj ga podtičući Kleopatru ljubi,					145</l>
@@ -1774,31 +1774,31 @@
                      <hi rend="bold">147*</hi>  Koliko zlo dohodi cića garla.</note>
                </l>
                <l n="5.148" enjamb="3">	Kako vethe rubi kripost će odvrići,</l>
-               <l n="5.149">Na konac nesrići upast će u svakoj: 	</l>
+               <l n="5.149" enjamb="3">Na konac nesrići upast će u svakoj: 	</l>
                <l n="5.150" enjamb="3">	Nemoć jih će sići, stumak ne dat pokoj,			150</l>
                <l n="5.151" enjamb="3">	Smalit će razbor svoj i jošće imanʼje,</l>
                <l n="5.152">	Pak u vikomnji znoj biti će njih stanʼje.</l>
-               <l n="5.153">Zadit će smijanʼje drugi, rič sȗ  čuvši;</l>
-               <l n="5.154">	Govorit zaman je, tarbuh nima uši:</l>
+               <l n="5.153" enjamb="3">Zadit će smijanʼje drugi, rič sȗ  čuvši;</l>
+               <l n="5.154" enjamb="3">	Govorit zaman je, tarbuh nima uši:</l>
                <l n="5.155" enjamb="3">	Razbire pȉću si i slasti privraća,				155</l>
                <l n="5.156">	I vina okusi, ter u se sve svraća.</l>
-               <l n="5.157" enjamb="3">Da kino se odvraća od dobra nauka,</l>
-               <l n="5.158">	Prida nj se ne izvraća ča se totu kljuka:</l>
-               <l n="5.159" enjamb="4">	Tim piše ma ruka kimno Svetu Duhu</l>
+               <l n="5.157" enjamb="4a">Da kino se odvraća od dobra nauka,</l>
+               <l n="5.158" enjamb="3">	Prida nj se ne izvraća ča se totu kljuka:</l>
+               <l n="5.159" enjamb="4a">	Tim piše ma ruka kimno Svetu Duhu</l>
                <l n="5.160" enjamb="3">	Ne zgodit jest muka veća ner tarbuhu,			160</l>
-               <l n="5.161" enjamb="3">Ki nimaju buhu huda utvarjenʼja</l>
+               <l n="5.161" enjamb="4a">Ki nimaju buhu huda utvarjenʼja</l>
                <l n="5.162">	Zalizlu u uhu spasena slišenʼja.</l>
-               <l n="5.163" enjamb="4">	Da jur govorenʼja rič se tamo vrati</l>
+               <l n="5.163" enjamb="4a">	Da jur govorenʼja rič se tamo vrati</l>
                <l n="5.164">	Na saj spovidenʼja odkle se uvrati.*<note place="margin">
                      <hi rend="bold">164*</hi>  Vraća na počitanʼje historije govorenʼje.</note></l>
-               <l n="5.165">Oloferne stati na noge prejedva					165</l>
-               <l n="5.166">	Mogaše, jer jati koko mogahu dva,</l>
-               <l n="5.167">	Toliko sam on zžva, i obuja ga san;</l>
+               <l n="5.165" enjamb="4b">Oloferne stati na noge prejedva					165</l>
+               <l n="5.166" enjamb="4a">	Mogaše, jer jati koko mogahu dva,</l>
+               <l n="5.167" enjamb="3">	Toliko sam on zžva, i obuja ga san;</l>
                <l n="5.168">	Vagav zatvaruć zva inih da gredu van.</l>
-               <l n="5.169">Idoše na svoj stan, sobom teturaje,*<note place="margin">
+               <l n="5.169" enjamb="3">Idoše na svoj stan, sobom teturaje,*<note place="margin">
                      <hi rend="bold">169*</hi>  Kako pjani gredihu ki se čtovaše s Holofernom.</note>
                </l>
-               <l n="5.170">	Jerbo ne jedan žban popiše spijaje;				170</l>
+               <l n="5.170" enjamb="3">	Jerbo ne jedan žban popiše spijaje;				170</l>
                <l n="5.171" enjamb="3">	Redom začinjaje zdravicu obnose,</l>
                <l n="5.172">	Jednu popijaje, a drugu donose.</l>
                <l n="5.173" enjamb="3">Pojdoše zanose tud-ovud nogami,</l>
@@ -1817,8 +1817,8 @@
                <l n="5.186" enjamb="3">	A niki ležiše, niki na nj padahu;</l>
                <l n="5.187" enjamb="3">	A druzih nošahu stavit jih na odar:</l>
                <l n="5.188">	Toko se saznahu koko martav tovar.</l>
-               <l n="5.189" enjamb="3">Tko će imiti var ustegnuti garla,</l>
-               <l n="5.190" enjamb="4">	Pogledaj ovi bar ter vij je lʼ umarla				190</l>
+               <l n="5.189" enjamb="4a">Tko će imiti var ustegnuti garla,</l>
+               <l n="5.190" enjamb="4b">	Pogledaj ovi bar ter vij je lʼ umarla				190</l>
                <l n="5.191" enjamb="3">	Tuj čast i doparla tamnost i gardinja,</l>
                <l n="5.192">	Ka je oto svarzla da je vitez svinja.</l>
                <l n="5.193" enjamb="3">Sad vij kako linja Olofernja sila,</l>
@@ -1829,34 +1829,34 @@
                <l n="5.198">	Zaspa većma gori nego morski medvid.*<note place="margin">
                      <hi rend="bold">198*</hi>  Oloferne zaspa.</note>
                </l>
-               <l n="5.199" enjamb="3">	Speći ga tako vid Judit, Abri svojoj:</l>
+               <l n="5.199" enjamb="4a">	Speći ga tako vid Judit, Abri svojoj:</l>
                <l n="5.200">	“Poj polahko naprid”, reče, “na vratih stoj!”		200</l>
-               <l n="5.201" enjamb="4">Ove dvi tad u toj ložnici ostale</l>
+               <l n="5.201" enjamb="4a">Ove dvi tad u toj ložnici ostale</l>
                <l n="5.202" enjamb="3">	S Olofernom, u njoj ne bihu zaspale;</l>
                <l n="5.203" enjamb="3">	Poni od tej štale na vratoh Abra sta,</l>
                <l n="5.204">	Jesu lʼ straže pale, oslihovati jȃ.</l>
-               <l n="5.205" enjamb="4">I straže i čeljad sva ka biše okoli					205</l>
-               <l n="5.206" enjamb="4">	Biše kako martva; svi bo na tom stoli</l>
+               <l n="5.205" enjamb="4a">I straže i čeljad sva ka biše okoli					205</l>
+               <l n="5.206" enjamb="4a">	Biše kako martva; svi bo na tom stoli</l>
                <l n="5.207" enjamb="3">	Jiše kako voli, da još veće piše:</l>
                <l n="5.208">	Bditi ne bȋ koli, straže ne činiše.</l>
-               <l n="5.209" enjamb="4">Ki je nebes više i ki svaka more,</l>
+               <l n="5.209" enjamb="4a">Ki je nebes više i ki svaka more,</l>
                <l n="5.210">	Jur odlučil biše puku da pomore.				210</l>
                <l n="5.211" enjamb="3">	Judita zastore postilji razmače,</l>
                <l n="5.212">	Sartce joj kopore, bliže se primače.</l>
                <l n="5.213" enjamb="3">Ruku s rukom stače i k nebu podvignu,</l>
-               <l n="5.214">	Na kolina klače i suzami rignu;</l>
+               <l n="5.214" enjamb="3">	Na kolina klače i suzami rignu;</l>
                <l n="5.215" enjamb="3">	Glasa ne izdvignu, da moli u sebi:*<note place="margin">
                      <hi rend="bold">215*</hi>  Molitva Judite kad hoti ubiti Oloferna.</note>				215</l>
                <l n="5.216">	“Bože, daj da stignu ča je godi tebi.</l>
                <l n="5.217" enjamb="3">Stvori milost meni, pokripʼ rabu tvoju,</l>
-               <l n="5.218" enjamb="4">	Strah mi vȁs odnemi, dvigni ruku moju</l>
+               <l n="5.218" enjamb="4a">	Strah mi vȁs odnemi, dvigni ruku moju</l>
                <l n="5.219" enjamb="3">	Da stvar svarši koju misal moja plodi,</l>
                <l n="5.220">	Da se tebe boju puci ter narodi!				220</l>
-               <l n="5.221" enjamb="4">Sada, sada hodi, tvoj grad Jerozolim</l>
+               <l n="5.221" enjamb="4a">Sada, sada hodi, tvoj grad Jerozolim</l>
                <l n="5.222">	Od nevolj slobodi i vȁs puk tvoj, molim.</l>
                <l n="5.223" enjamb="3">	Rasap daj oholim, ki se uzvišuju,</l>
                <l n="5.224">	Pokoj pošlji boljim, ki se ponižuju.</l>
-               <l n="5.225" enjamb="4">Ovo ča veruju po tebi ja moći,					225</l>
+               <l n="5.225" enjamb="4a">Ovo ča veruju po tebi ja moći,					225</l>
                <l n="5.226" enjamb="3">	Koko potribuju, hoti mi pomoći,</l>
                <l n="5.227" enjamb="3">	U dne ter u noći tebi da hvalu dam,</l>
                <l n="5.228">	Jer u tvoje moći sad svaršit to uzdam.”</l>
@@ -1867,100 +1867,99 @@
                      <hi rend="bold">232*</hi>  Kako ga ubi jednom rukom za vlase uhitiv ga, a drugom koljući.</note>
                </l>
                <l n="5.233" enjamb="3">Hronu, strepi sobom, ležeći on uznak,</l>
-               <l n="5.234" enjamb="4">	Darhta ruka s nogom, vȁs se oslabi, pak</l>
+               <l n="5.234" enjamb="4b">	Darhta ruka s nogom, vȁs se oslabi, pak</l>
                <l n="5.235" enjamb="3">	Izdaše; ne bȋ jak; garkljanom siča karv:			235</l>
                <l n="5.236">	Tako tʼ zgibe junak, tako spusti obarv.</l>
                <l n="5.237" enjamb="3">Zgrize ga mao čarv oružjem njegovim,</l>
-               <l n="5.238" enjamb="3">	Ubi ga ženska sarv, ki biše prostro dim*<note place="margin">
+               <l n="5.238" enjamb="4a">	Ubi ga ženska sarv, ki biše prostro dim*<note place="margin">
                      <hi rend="bold">238*</hi>  Sarv: sarvanʼje.</note>
                </l>
-               <l n="5.239" enjamb="4">	Da zajme svitom svim; ki mnjaše da ni Bog</l>
-               <l n="5.240" enjamb="3">	Silam njegovim tim jest protiviti mog,			240</l>
+               <l n="5.239" enjamb="4a">	Da zajme svitom svim; ki mnjaše da ni Bog</l>
+               <l n="5.240" enjamb="4a">	Silam njegovim tim jest protiviti mog,			240</l>
                <l n="5.241" enjamb="3">Prostri se tuj nebog, prez glave, kako panj,</l>
                <l n="5.242" enjamb="3">	Juditi Bog pomog kada napade na nj,</l>
                <l n="5.243" enjamb="3">	Da joj nȋ trud zamanj, da stvari viru dȃ:</l>
                <l n="5.244">	Prikla ga steć uza nj i odni glavu tja.</l>
                <l n="5.245">I Abri reče: “Na, u dvanjke toj zatvorʼ!”				245</l>
                <l n="5.246" enjamb="3">	Sama se prope i sta, skide s odra nastor,</l>
-               <l n="5.247" enjamb="4">	Odvaliv trup odzgor, pak po običaj svoj</l>
+               <l n="5.247" enjamb="4a">	Odvaliv trup odzgor, pak po običaj svoj</l>
                <l n="5.248">	Izidoše na dvor, kako da mole obhoj.</l>
                <l n="5.249" enjamb="3">Ne dav nogam pokoj, projdoše vȁs okol,</l>
                <l n="5.250">	Prem da jim biše znoj, obvargoše prodol.			250</l>
-               <l n="5.251" enjamb="3">	Kako kada sokol uhvati lovinu,*<note place="margin">
+               <l n="5.251" enjamb="4a">	Kako kada sokol uhvati lovinu,*<note place="margin">
                      <hi rend="bold">251*</hi>  Prilika.</note></l>
                <l n="5.252" enjamb="3">	Zavje se više školj, side na visinu,</l>
                <l n="5.253" enjamb="3">Ne pustiv živinu iz nohat, ku je jal,</l>
                <l n="5.254" enjamb="3">	Dokla dopre stinu gdi je gnjizdo svijal;</l>
-               <l n="5.255" enjamb="4">	Harlo ti je lital, da se napitaju				255</l>
+               <l n="5.255" enjamb="4a">	Harlo ti je lital, da se napitaju				255</l>
                <l n="5.256" enjamb="3">	Ptići, jerbo je znal da lačni čekaju:</l>
                <l n="5.257" enjamb="3">Tako tʼ ne sustaju ove dvi, ni sidu,</l>
                <l n="5.258">	Dokla ugledaju vahtare na zidu.</l>
-               <l n="5.259" enjamb="4">	Pojdoše po brigu, i kad bȋ blizu vrat,</l>
+               <l n="5.259" enjamb="4a">	Pojdoše po brigu, i kad bȋ blizu vrat,</l>
                <l n="5.260" enjamb="3">	Judita napridu uzupi, napan vrat:				260</l>
                <l n="5.261">“Otvorʼte, otvorʼte grad, jere je s nami Bog!</l>
-               <l n="5.262" enjamb="4">	Otvorʼte, otvorʼte! Sad oni ki je svemog</l>
+               <l n="5.262" enjamb="4a">	Otvorʼte, otvorʼte! Sad oni ki je svemog</l>
                <l n="5.263" enjamb="3">	Puku svomu pomog skazal je svȗ kripost:</l>
                <l n="5.264">	Nečistih u barlog varže, nam dȃ milost.”</l>
                <l n="5.265" enjamb="3">Prijam jih u naglost, stražane idoše,				265</l>
                <l n="5.266" enjamb="3">	Nenadinu radost tu popom rekoše,</l>
                <l n="5.267" enjamb="3">	I svi se stekoše, Juditu vidiše,</l>
                <l n="5.268">	Svitilʼja snesoše jerbo još noć biše.</l>
-               <l n="5.269" enjamb="3">Judita sta više i, jer staše gromor –</l>
-               <l n="5.270" enjamb="4">	Svi bo se čudiše, ne mneći jur nitkor			270</l>
-               <l n="5.271" enjamb="4">	Da ju on sčeka zbor  – rukom dȃ zlamenʼja</l>
+               <l n="5.269" enjamb="4a">Judita sta više i, jer staše gromor –</l>
+               <l n="5.270" enjamb="4a">	Svi bo se čudiše, ne mneći jur nitkor			270</l>
+               <l n="5.271" enjamb="4a">	Da ju on sčeka zbor  – rukom dȃ zlamenʼja</l>
                <l n="5.272" enjamb="3">	Da muče ter govor sliše nje činjenʼja:</l>
                <l n="5.273">Uši na slišanʼja dvigoše primuknuv.</l>
-               <l n="5.274" enjamb="4">	Reče: “Umiljenʼja pridajte poniknuv*<note place="margin">
+               <l n="5.274" enjamb="4b">	Reče: “Umiljenʼja pridajte poniknuv*<note place="margin">
                      <hi rend="bold">274*</hi>  Govori Judita puku prišad u grad, ubiv Oloferna.</note></l>
-               <l n="5.275" enjamb="4">	Bogu, jer uzdvignuv on ki u nj ufaju,			275</l>
+               <l n="5.275" enjamb="4a">	Bogu, jer uzdvignuv on ki u nj ufaju,			275</l>
                <l n="5.276">	Onih bȋ prikinuv kino ga ne haju.</l>
-               <l n="5.277" enjamb="4">Kino toku baju nas pridati napi,</l>
-               <l n="5.278">	Karvi tuje žaju, svoju pivši, zapi.
-               </l>
-               <l n="5.279" enjamb="4">	Glas vaš Boga vapi, i Bog rukom mojom</l>
+               <l n="5.277" enjamb="4a">Kino toku baju nas pridati napi,</l>
+               <l n="5.278">	Karvi tuje žaju, svoju pivši, zapi.</l>
+               <l n="5.279" enjamb="4a">	Glas vaš Boga vapi, i Bog rukom mojom</l>
                <l n="5.280">	Oloferna skvapi sȗ  noć pravdom svojom.”		280</l>
                <l n="5.281" enjamb="3">Tad pohvativ rukom z dvanjak ize glavu,</l>
                <l n="5.282" enjamb="3">	Ukaza prid pukom strašnu, svu karvavu,</l>
                <l n="5.283" enjamb="3">	Klanu kako bravu. “Evo glava”, reče,</l>
                <l n="5.284">	“Kano sȗ  daržavu priti da rasteče.”</l>
-               <l n="5.285" enjamb="3">Pak razvivši peče: “Evo”, reče, “karzan				285</l>
-               <l n="5.286" enjamb="4">	Na kom pjan pričeče, na kom karvju parzan</l>
-               <l n="5.287" enjamb="4">	Osta vele marzan, kad od jedne žene</l>
+               <l n="5.285" enjamb="4a">Pak razvivši peče: “Evo”, reče, “karzan				285</l>
+               <l n="5.286" enjamb="4a">	Na kom pjan pričeče, na kom karvju parzan</l>
+               <l n="5.287" enjamb="4a">	Osta vele marzan, kad od jedne žene</l>
                <l n="5.288" enjamb="3">	Smartju bȋ povarzan, Bog pomogši mene,</l>
-               <l n="5.289" enjamb="4">Ki stvar tako rene, ki moga počtenʼja</l>
+               <l n="5.289" enjamb="4a">Ki stvar tako rene, ki moga počtenʼja</l>
                <l n="5.290">	Čuva da ne uvene s nikoga zgrišenʼja.			290</l>
                <l n="5.291" enjamb="3">	Dȃ meni vraćenʼja, dȃ sebi dobitje,</l>
                <l n="5.292">	Dȃ vam slobojenʼja, dȃ svim dobro žitje.</l>
                <l n="5.293" enjamb="3">Njemu poni pitje slavno htijmo peti</l>
                <l n="5.294" enjamb="3">	Tere žgati žartje; a zlobe odneti,</l>
-               <l n="5.295" enjamb="4">	Pravoga oteti, to će biti dike				295</l>
+               <l n="5.295" enjamb="4b">	Pravoga oteti, to će biti dike				295</l>
                <l n="5.296">	Njemu, ki je sveti, milostiv u vike.”</l>
-               <l n="5.297" enjamb="4">Vidivši puk like nevolj svojih, pokol</l>
-               <l n="5.298" enjamb="3">	Bog jur protivnike smete i njih okol,</l>
+               <l n="5.297" enjamb="4b">Vidivši puk like nevolj svojih, pokol</l>
+               <l n="5.298" enjamb="4a">	Bog jur protivnike smete i njih okol,</l>
                <l n="5.299" enjamb="3">	Prignuše glavu dol, njemu zahvališe</l>
                <l n="5.300">	Slaveć njegov pristol, Juditu hvališe.			300</l>
                <l n="5.301" enjamb="3">Ozija tuj biše, od veselʼja suzi,*<note place="margin">
                      <hi rend="bold">301*</hi>  Kako se Ozija obeseli.</note></l>
                <l n="5.302">	Radosno uzdiše videć konac tuzi.</l>
-               <l n="5.303" enjamb="4">	Kakono ki upuzi u porat jur mneći*<note place="margin">
+               <l n="5.303" enjamb="4a">	Kakono ki upuzi u porat jur mneći*<note place="margin">
                      <hi rend="bold">303*</hi>  Prilika.</note></l>
-               <l n="5.304" enjamb="3">	Da ga val pogruzi, vitar strašno dmeći,</l>
-               <l n="5.305" enjamb="4">Raduje se steći, zgibil koj ubiže					305</l>
-               <l n="5.306" enjamb="3">	U sebi misleći, ter spasan ku stiže,</l>
-               <l n="5.307" enjamb="4">	Hvalu Bogu dviže da ga ne poklopi</l>
+               <l n="5.304" enjamb="4a">	Da ga val pogruzi, vitar strašno dmeći,</l>
+               <l n="5.305" enjamb="4a">Raduje se steći, zgibil koj ubiže					305</l>
+               <l n="5.306" enjamb="4a">	U sebi misleći, ter spasan ku stiže,</l>
+               <l n="5.307" enjamb="4b">	Hvalu Bogu dviže da ga ne poklopi</l>
                <l n="5.308" enjamb="3">	More i ne stiže, ko mnozih potopi:</l>
-               <l n="5.309" enjamb="4">Tako ti meu popi vesel Ozija stav</l>
+               <l n="5.309" enjamb="4a">Tako ti meu popi vesel Ozija stav</l>
                <l n="5.310" enjamb="3">	Sȗ  besidu sklopi: “Boga svak”, reče, “slavʼ,*<note place="margin">
                      <hi rend="bold">310*</hi>  Govori Ozija puku i Juditi.</note>		310</l>
-               <l n="5.311" enjamb="4">	Ki milo k nam ustav i moć ženske desne</l>
+               <l n="5.311" enjamb="4a">	Ki milo k nam ustav i moć ženske desne</l>
                <l n="5.312">	Moćju svojom nadav, protivnim glavu sne.</l>
                <l n="5.313" enjamb="3">U noći ter u dne budi vazda s nami,</l>
                <l n="5.314">	Pečal, misli trudne vazda nam odnami.</l>
                <l n="5.315" enjamb="3">	A ti meu ženami blažena sʼ, Judita,				315</l>
                <l n="5.316" enjamb="3">	Blažen Bog, ki rami svojimi te šćita,</l>
-               <l n="5.317" enjamb="4">I od zla zamita, i ruku upravi</l>
+               <l n="5.317" enjamb="4a">I od zla zamita, i ruku upravi</l>
                <l n="5.318">	Na smart koga prita  vȁs svit u strah stavi.</l>
-               <l n="5.319" enjamb="4">	Tako te proslavi da će tʼ hvale dati</l>
+               <l n="5.319" enjamb="4a">	Tako te proslavi da će tʼ hvale dati</l>
                <l n="5.320">	U svita daržavi svi ki budu stati.				320</l>
                <l n="5.321" enjamb="3">Prȋ će se vraćati ka vrilu vode rik,</l>
                <l n="5.322" enjamb="3">	Po moru plavati od svih težina sik,</l>
@@ -1970,15 +1969,15 @@
                <l n="5.326">	Za ovi slobodit puk od pogibila.</l>
                <l n="5.327" enjamb="3">	Platit takaj dila nitkor nas ne more:</l>
                <l n="5.328">	Božja tʼ jih platʼ sila, kano svaka more.”</l>
-               <l n="5.329" enjamb="4">Toj on dogovore, ki bihu tuj ljudi,</l>
+               <l n="5.329" enjamb="4a">Toj on dogovore, ki bihu tuj ljudi,</l>
                <l n="5.330">	Svi usta rastvore, riše: “Tako budi!”			330</l>
                <l n="5.331" enjamb="3">	Dozvan dojde tudi i Akior nebog,</l>
                <l n="5.332">	Pače blag, kad trudi olahča mu nalog.</l>
-               <l n="5.333" enjamb="4">Reče mu Judit: “Bog izraelski danas,</l>
-               <l n="5.334" enjamb="4">	Koga, da je uzmog obarovati nas,</l>
-               <l n="5.335" enjamb="4">	Ti reče, neka znaš, prikla u ruku mȗ			335</l>
+               <l n="5.333" enjamb="4a">Reče mu Judit: “Bog izraelski danas,</l>
+               <l n="5.334" enjamb="4b">	Koga, da je uzmog obarovati nas,</l>
+               <l n="5.335" enjamb="4a">	Ti reče, neka znaš, prikla u ruku mȗ			335</l>
                <l n="5.336">	Vrat, kako jedan vlas, neverniku tomu.</l>
-               <l n="5.337" enjamb="4">A da vidiš komu, ovo tʼ glava onoga</l>
+               <l n="5.337" enjamb="4a">A da vidiš komu, ovo tʼ glava onoga</l>
                <l n="5.338" enjamb="3">	U oholstvu svomu ki pogardi Boga,</l>
                <l n="5.339" enjamb="3">	A tebe dilj toga reče da će zgubit</l>
                <l n="5.340">	Kad puka ovoga klat bude i rubit.”				340</l>
@@ -1999,41 +1998,41 @@
                      <hi rend="bold">1*</hi>  Kako Judit red dȃ da zatiraju vojsku.</note>
                </l>
                <l n="6.2">	Bog nam će posudit još milosti za tim.</l>
-               <l n="6.3" enjamb="4">	Zbodʼte kopjem jednim glavu tuj i pojte</l>
-               <l n="6.4">	Gori na gradu  s njim, ter umistiv ojte;</l>
-               <l n="6.5" enjamb="3">Ništar se ne bojte. Kada isteče dan,					5</l>
-               <l n="6.6">	Odparvši vrat, projte z bukom, s oružjem van;</l>
+               <l n="6.3" enjamb="4b">	Zbodʼte kopjem jednim glavu tuj i pojte</l>
+               <l n="6.4" enjamb="3">	Gori na gradu  s njim, ter umistiv ojte;</l>
+               <l n="6.5" enjamb="4a">Ništar se ne bojte. Kada isteče dan,					5</l>
+               <l n="6.6" enjamb="3">	Odparvši vrat, projte z bukom, s oružjem van;</l>
                <l n="6.7" enjamb="3">	Svaki prid gradom stanʼ, da još ne poj doli,</l>
-               <l n="6.8" enjamb="3">	Ni se sa mista ganʼ ni kreni dotoli</l>
-               <l n="6.9" enjamb="3">Dokol njih okoli, totu vas videće,</l>
-               <l n="6.10" enjamb="3">	Zbuče se ter poli šatora hodeće				10</l>
-               <l n="6.11" enjamb="3">	I šćiti kučeće  budu budit njega</l>
+               <l n="6.8" enjamb="4a">	Ni se sa mista ganʼ ni kreni dotoli</l>
+               <l n="6.9" enjamb="4a">Dokol njih okoli, totu vas videće,</l>
+               <l n="6.10" enjamb="4a">	Zbuče se ter poli šatora hodeće				10</l>
+               <l n="6.11" enjamb="4a">	I šćiti kučeće  budu budit njega</l>
                <l n="6.12">	Ki se zbudit neće jur za vika sega.</l>
-               <l n="6.13" enjamb="3">Ki kada vide ga prez glave ležeći</l>
+               <l n="6.13" enjamb="4a">Ki kada vide ga prez glave ležeći</l>
                <l n="6.14">	I karvava svega, hoće jih strah sveći.</l>
-               <l n="6.15" enjamb="3">	Vi kad jih bižeći odzgoru vidite,				15</l>
+               <l n="6.15" enjamb="4a">	Vi kad jih bižeći odzgoru vidite,				15</l>
                <l n="6.16">	Tad smini hiteći na njih oborite.</l>
-               <l n="6.17" enjamb="4">Slobodno naprite, jer pod noge vaše</l>
+               <l n="6.17" enjamb="4a">Slobodno naprite, jer pod noge vaše</l>
                <l n="6.18">	Bog njimi poskite, dat jim će zle paše.</l>
                <l n="6.19" enjamb="3">	Probavit će čaše  ke su sinoć pili,</l>
                <l n="6.20">	Ginut će njih baše, vi ćete bit cili.				20</l>
-               <l n="6.21" enjamb="4">I kojojno sili Mezopotamija</l>
-               <l n="6.22" enjamb="3">	Pridav se uhili i sva Cilicija,</l>
-               <l n="6.23" enjamb="4">	I još s njom Sirija, tuj ćete sada vi</l>
+               <l n="6.21" enjamb="4b">I kojojno sili Mezopotamija</l>
+               <l n="6.22" enjamb="4a">	Pridav se uhili i sva Cilicija,</l>
+               <l n="6.23" enjamb="4b">	I još s njom Sirija, tuj ćete sada vi</l>
                <l n="6.24">	Raztirat, da svija nogami kud ne vȋ.”</l>
                <l n="6.25">Kako jim reče, svi tako učiniše.					25</l>
-               <l n="6.26" enjamb="4">	Akior, jerbo vȋ  kolika moć biše*<note place="margin">
+               <l n="6.26" enjamb="4b">	Akior, jerbo vȋ  kolika moć biše*<note place="margin">
                      <hi rend="bold">26*</hi>  Akior se obrati.</note>
                </l>
-               <l n="6.27" enjamb="3">	Boga, kim dobiše, poganski blud pusti</l>
+               <l n="6.27" enjamb="4a">	Boga, kim dobiše, poganski blud pusti</l>
                <l n="6.28">	U ki prȋ živiše, poča zakon bljusti.</l>
                <l n="6.29" enjamb="3">Boga sartcem, usti jednoga počtova,</l>
-               <l n="6.30" enjamb="3">	Njega tʼ ne popusti. Pokol se obrizova,			30</l>
+               <l n="6.30" enjamb="4a">	Njega tʼ ne popusti. Pokol se obrizova,			30</l>
                <l n="6.31" enjamb="3">	Tuj vazda stanova sa obitilʼju svom,</l>
                <l n="6.32">	Sveto životova do konca u gradu tom.</l>
-               <l n="6.33" enjamb="3">Vidiš li da u kom človiku pravda jest,</l>
+               <l n="6.33" enjamb="4a">Vidiš li da u kom človiku pravda jest,</l>
                <l n="6.34">	Još da ga triska grom, u dobro ga će unest;</l>
-               <l n="6.35" enjamb="4">	Dobro će ustat i sest, vekše će nevolje			35</l>
+               <l n="6.35" enjamb="4a">	Dobro će ustat i sest, vekše će nevolje			35</l>
                <l n="6.36">	Napokon ga navest na spasenʼje bolje.</l>
                <l n="6.37" enjamb="3">Danica jur školje zrakom odivaše*<note place="margin">
                      <hi rend="bold">37*</hi>  Dan se učini.</note></l>
@@ -2041,39 +2040,39 @@
                <l n="6.39" enjamb="3">	Sunce podivaše jur svitlu glavu van,</l>
                <l n="6.40">	Jur svuda sivaše, jure bȋ bili dan.				40</l>
                <l n="6.41" enjamb="3">Zbodena na ostan na turnu tikva sta,</l>
-               <l n="6.42" enjamb="4">	I ništar ne postan, s oružjem družba sva</l>
+               <l n="6.42" enjamb="4a">	I ništar ne postan, s oružjem družba sva</l>
                <l n="6.43">	Barom po vrata ta buknu z bukom na dvor.</l>
                <l n="6.44" enjamb="3">	Trumbitaš praskat jȃ protiva vojsci zgor,</l>
                <l n="6.45" enjamb="3">Po vojsci sta gromor, tekoše k šatoru,				45</l>
-               <l n="6.46">	Ki bihu pod šator, staše prid komoru;</l>
-               <l n="6.47" enjamb="4">	Oružjem koporu, Oloferna zbučit</l>
+               <l n="6.46" enjamb="3">	Ki bihu pod šator, staše prid komoru;</l>
+               <l n="6.47" enjamb="4b">	Oružjem koporu, Oloferna zbučit</l>
                <l n="6.48">	Hteć, jer na zaporu ne smihu mu kučit.</l>
                <l n="6.49" enjamb="3">Zamani bȋ bučit, on se ne probudi:</l>
-               <l n="6.50" enjamb="3">	Tim se jaše mučit. Shode glave ljudi,			50</l>
+               <l n="6.50" enjamb="4a">	Tim se jaše mučit. Shode glave ljudi,			50</l>
                <l n="6.51" enjamb="3">	Vrataru, da zbudi njega sad, rekoše,</l>
                <l n="6.52" enjamb="3">	Koga čuti sudi vojvode dojdoše,</l>
                <l n="6.53" enjamb="3">Govore: “Zidoše od zakutak miši,</l>
                <l n="6.54">	Ter nas zatekoše da boj biju piši.”</l>
                <l n="6.55" enjamb="3">	Tad Vagav ulisši, u dlan bȋ beritom,			55</l>
                <l n="6.56">	Za tim poposliši, mneć da spi s Juditom.</l>
-               <l n="6.57" enjamb="3">Ne čuvši za svitom šušnja ni govora,</l>
+               <l n="6.57" enjamb="4a">Ne čuvši za svitom šušnja ni govora,</l>
                <l n="6.58" enjamb="3">	Zadi parst za plitom, razmaknu zastora:</l>
                <l n="6.59" enjamb="3">	Ugleda trup zgora gdi leži prez glave,</l>
                <l n="6.60">	A pod njim je kora postilje karvave.			60</l>
                <l n="6.61" enjamb="3">Zavapi i plave razdri o se rube,*<note place="margin">
                      <hi rend="bold">61*</hi>  Kako Vagav vratar zavapi ugledav Oloferna prez glave.</note></l>
-               <l n="6.62">	I brade pahljave sidine oskube;</l>
-               <l n="6.63" enjamb="4">	Za tim sobom snube, plačan teče vidit</l>
+               <l n="6.62" enjamb="3">	I brade pahljave sidine oskube;</l>
+               <l n="6.63" enjamb="4a">	Za tim sobom snube, plačan teče vidit</l>
                <l n="6.64">	Od skrovišća kruge u ke staše Judit.</l>
                <l n="6.65" enjamb="3">Ne zastav ju, hitit jȃ da van isteče,					65</l>
-               <l n="6.66" enjamb="3">	Istekši jȃ vapit: “Jedna žena”, reče,</l>
+               <l n="6.66" enjamb="4a">	Istekši jȃ vapit: “Jedna žena”, reče,</l>
                <l n="6.67" enjamb="3">	“Židovinka spletče rugo u sem dvoru,</l>
                <l n="6.68">	Priročno poleče  Nabukdonozoru.</l>
-               <l n="6.69" enjamb="3">Evo u svȗ komoru Oloferne kopni</l>
+               <l n="6.69" enjamb="4a">Evo u svȗ komoru Oloferne kopni</l>
                <l n="6.70">	Na postilji goru, na njemu glave nȋ!”			70</l>
-               <l n="6.71" enjamb="3">	Asirski baše tȋ glas kada slišiše,</l>
+               <l n="6.71" enjamb="4a">	Asirski baše tȋ glas kada slišiše,</l>
                <l n="6.72">	Obojmeknuše svi i svite razdriše.</l>
-               <l n="6.73" enjamb="4">Svi se pristrašiše, kako komu gavun*<note place="margin">
+               <l n="6.73" enjamb="4b">Svi se pristrašiše, kako komu gavun*<note place="margin">
                      <hi rend="bold">73*</hi>  Prilika.</note></l>
                <l n="6.74" enjamb="3">	Vali zbiv odniše argutlu i tamun,</l>
                <l n="6.75" enjamb="3">	Dimajući garbun jidrom paha, huhće,			75</l>
@@ -2081,59 +2080,59 @@
                <l n="6.77" enjamb="3">Takim strahom dahće bjeno sartce ovih,</l>
                <l n="6.78">	Plač ter vapaj bahće i jur obide svih.*<note place="margin">
                      <hi rend="bold">78*</hi>  Kako se vojska pristraši i poča bižati.</note></l>
-               <l n="6.79" enjamb="4">	Ne osta karv u njih, i vidiv na grad dil</l>
+               <l n="6.79" enjamb="4b">	Ne osta karv u njih, i vidiv na grad dil</l>
                <l n="6.80">	Udov Olofernjih, strah jih je veći bil.			80</l>
                <l n="6.81" enjamb="3">Marmor je svuda vril, smete se vȁs okol,</l>
                <l n="6.82">	Starknja usta od sil, svak je bižat obol.</l>
-               <l n="6.83" enjamb="3">	Kako kada sokol u nebo se vija,*<note place="margin">
+               <l n="6.83" enjamb="4a">	Kako kada sokol u nebo se vija,*<note place="margin">
                      <hi rend="bold">84*</hi>  Prilika.</note>
                </l>
                <l n="6.84" enjamb="3">	Jato se ptic odzdol široko razvija,</l>
                <l n="6.85" enjamb="3">Ča prȋ more, svija, naprid se pojima,				85</l>
-               <l n="6.86">	Jer ga strah zabija, duše ne pojima:</l>
+               <l n="6.86" enjamb="3">	Jer ga strah zabija, duše ne pojima:</l>
                <l n="6.87" enjamb="3">	Tako tada njima bojazan micaše,</l>
                <l n="6.88">	Simo-tamo svima po polju starkaše.</l>
-               <l n="6.89" enjamb="4">Svaki se bojaše jer Betulijani</l>
-               <l n="6.90">	Oružnih hust staše nad njimi u strani;			90</l>
-               <l n="6.91" enjamb="3">	Ki vidiv da bani asirski odbigoše,</l>
+               <l n="6.89" enjamb="4b">Svaki se bojaše jer Betulijani</l>
+               <l n="6.90" enjamb="3">	Oružnih hust staše nad njimi u strani;			90</l>
+               <l n="6.91" enjamb="4a">	Ki vidiv da bani asirski odbigoše,</l>
                <l n="6.92">	S onih gornjih stani vičući stekoše.</l>
                <l n="6.93" enjamb="3">Stižući bodoše mnozih šćipačami,</l>
-               <l n="6.94">	Mnozih posikoše po pleću sabljami;</l>
-               <l n="6.95" enjamb="3">	Mnozi ki lugami na konjih bižahu				95</l>
+               <l n="6.94" enjamb="3">	Mnozih posikoše po pleću sabljami;</l>
+               <l n="6.95" enjamb="4a">	Mnozi ki lugami na konjih bižahu				95</l>
                <l n="6.96">	Sabjeni praćami legoše u prahu.</l>
-               <l n="6.97" enjamb="4">Nevidom svijahu: nigdar toke sile</l>
+               <l n="6.97" enjamb="4a">Nevidom svijahu: nigdar toke sile</l>
                <l n="6.98" enjamb="3">	U toliku strahu, ja mnju, nisu bile,</l>
-               <l n="6.99" enjamb="4">	Kud su god hodile, ni kih moći manje</l>
+               <l n="6.99" enjamb="4a">	Kud su god hodile, ni kih moći manje</l>
                <l n="6.100">	Jesu naskočile, ni tirale hlanje.				100</l>
-               <l n="6.101" enjamb="3">Ozija, da na nje od gradov pripuste,*<note place="margin">
+               <l n="6.101" enjamb="4a">Ozija, da na nje od gradov pripuste,*<note place="margin">
                      <hi rend="bold">101*</hi>  Ozija mače i liste pisa po mistih da tiraju vojsku ka bižaše.</note></l>
-               <l n="6.102" enjamb="3">	Jer će biti sa nje, da jih ne upuste</l>
-               <l n="6.103" enjamb="3">	I da ljudi huste zaskoče na cistih,</l>
+               <l n="6.102" enjamb="4a">	Jer će biti sa nje, da jih ne upuste</l>
+               <l n="6.103" enjamb="4a">	I da ljudi huste zaskoče na cistih,</l>
                <l n="6.104">	Mače ki to zuste tičući po mistih.</l>
-               <l n="6.105" enjamb="3">To pisa u listih, ke kada pročtaše,					105</l>
+               <l n="6.105" enjamb="4a">To pisa u listih, ke kada pročtaše,					105</l>
                <l n="6.106" enjamb="3">	Od mist onih istih harlo se sticaše,</l>
                <l n="6.107" enjamb="3">	Ter ti jih tiraše, derući, bijući,</l>
                <l n="6.108">	Gdi su njih mejaše deri dopirući.</l>
-               <l n="6.109" enjamb="4">Meu tim slazući od Betulije ki</l>
-               <l n="6.110" enjamb="3">	Grada čuvajući ostali bihu svi,				110</l>
-               <l n="6.111" enjamb="3">	Asirski okol gdi biše ostao pust,</l>
+               <l n="6.109" enjamb="4b">Meu tim slazući od Betulije ki</l>
+               <l n="6.110" enjamb="4a">	Grada čuvajući ostali bihu svi,				110</l>
+               <l n="6.111" enjamb="4a">	Asirski okol gdi biše ostao pust,</l>
                <l n="6.112">	Mnogu pratež ondi razuzeše u hust.</l>
-               <l n="6.113" enjamb="3">Kako vinograd gust, kad je voće zrilo,*<note place="margin">
+               <l n="6.113" enjamb="4a">Kako vinograd gust, kad je voće zrilo,*<note place="margin">
                      <hi rend="bold">113*</hi>  Prilika.</note>
                </l>
-               <l n="6.114" enjamb="3">	Koga ne bude bljust pudar ni pudilo,</l>
+               <l n="6.114" enjamb="4a">	Koga ne bude bljust pudar ni pudilo,</l>
                <l n="6.115" enjamb="3">	Jato ga pokrilo čvarljak, grozd ne ojde,			115</l>
-               <l n="6.116">	Kad se je najilo, s punom gvačom pojde:</l>
+               <l n="6.116" enjamb="3">	Kad se je najilo, s punom gvačom pojde:</l>
                <l n="6.117" enjamb="3">Tako svaki dojde šiju nakarcavši,</l>
                <l n="6.118">	I u gradu projde, okol razsakavši.</l>
-               <l n="6.119" enjamb="3">	Za njimi, prignavši ča gonit mogoše,</l>
-               <l n="6.120" enjamb="3">	Ki, vojsku zagnavši, z dobitjem pridoše,			120</l>
+               <l n="6.119" enjamb="4a">	Za njimi, prignavši ča gonit mogoše,</l>
+               <l n="6.120" enjamb="4a">	Ki, vojsku zagnavši, z dobitjem pridoše,			120</l>
                <l n="6.121" enjamb="3">Tuj blago snesoše od asirske sile,</l>
                <l n="6.122">	I ča dotekoše, svim riše da dile.</l>
                <l n="6.123" enjamb="3">	Nikogar ne uhile, svi biše bogati,</l>
-               <l n="6.124">	I po pune zdile jaše blagovati;</l>
+               <l n="6.124" enjamb="3">	I po pune zdile jaše blagovati;</l>
                <l n="6.125" enjamb="3">Jaše napijati, Bogu hvale daje,					125</l>
-               <l n="6.126" enjamb="3">	I veseli stati redom počitaje</l>
+               <l n="6.126" enjamb="4a">	I veseli stati redom počitaje</l>
                <l n="6.127" enjamb="3">	Gdi ki dostizaje biše koga ubil,</l>
                <l n="6.128">	Gdi ki priticaje biše put zaskočil.</l>
                <l n="6.129" enjamb="3">Bože, kolikih sil kolika gardina,*<note place="margin">
@@ -2151,41 +2150,40 @@
                <l n="6.139" enjamb="3">	Hvalu Bogu dali u pisnih pojući,</l>
                <l n="6.140" enjamb="3">	Tance su igrali, svitila žegući,				140</l>
                <l n="6.141" enjamb="3">Hvalu još dajući dilu Juditinu,</l>
-               <l n="6.142">	Kim dobivajući skupiše litinu;</l>
+               <l n="6.142" enjamb="3">	Kim dobivajući skupiše litinu;</l>
                <l n="6.143" enjamb="3">	I gradi u istinu zdrišiše straha grop,</l>
                <l n="6.144">	Ki mnjahu da zginu pod toke sile snop.</l>
-               <l n="6.145" enjamb="3">Elijakim, veli pop od Jerozolime,*<note place="margin">
+               <l n="6.145" enjamb="4a">Elijakim, veli pop od Jerozolime,*<note place="margin">
                      <hi rend="bold">145*</hi>  Kako od Jerozolime dojdoše popove i hvališe Juditu.</note>					145</l>
-               <l n="6.146" enjamb="4">	Noseć smočen isop kropljaše da snime</l>
+               <l n="6.146" enjamb="4b">	Noseć smočen isop kropljaše da snime</l>
                <l n="6.147" enjamb="3">	Nečistoć onime ki se ockvarniše</l>
                <l n="6.148">	Svite martvih prime kih zagnav ubiše.*<note place="margin">
                      <hi rend="bold">148*</hi>  Jer u zakonu ockvarnjen biše ki se takniše martva človika. Pop jih očišćaše škropeći vodom u koj biše lug krave čarljene, močeći u njoj isop.</note></l>
                <l n="6.149" enjamb="3">Za njim ti grediše popovi mnogi zbor,</l>
                <l n="6.150" enjamb="3">	S njim grede dopriše Betuliji na dvor,			150</l>
-               <l n="6.151" enjamb="3">	I kad pram njim odzgor Judita iskasi,</l>
+               <l n="6.151" enjamb="4a">	I kad pram njim odzgor Judita iskasi,</l>
                <l n="6.152">	Svakoga ju govor s hvalom dobročasi.</l>
                <l n="6.153" enjamb="3">Riše joj: “Slava si Jerozolime sve,</l>
                <l n="6.154" enjamb="3">	Sva radost naša si, počtenʼje zemlje sȇ,</l>
                <l n="6.155" enjamb="3">	Jere je sartce tve muški se nosilo,				155</l>
                <l n="6.156">	Tobom je strane ove misto oživilo.</l>
-               <l n="6.157" enjamb="4">A sve je to bilo jer čistoću tvoju*<note place="margin">
+               <l n="6.157" enjamb="4a">A sve je to bilo jer čistoću tvoju*<note place="margin">
                      <hi rend="bold">157*</hi>  Vij dostojanstvo čistinje udovičke.</note>
                </l>
-               <l n="6.158">	Pogleda Bog milo i dȃ tʼ milost svoju;</l>
+               <l n="6.158" enjamb="3">	Pogleda Bog milo i dȃ tʼ milost svoju;</l>
                <l n="6.159" enjamb="3">	Jer sta u pokoju, muža ne poznavši,</l>
                <l n="6.160">	I u svetih broju, parvi ti umarvši.				160</l>
-               <l n="6.161" enjamb="3">Bog tebe zazvavši sparti nas brimena
-               </l>
-               <l n="6.162">	I tebe obravši proslavi tʼ imena:</l>
+               <l n="6.161" enjamb="3">Bog tebe zazvavši sparti nas brimena</l>
+               <l n="6.162" enjamb="3">	I tebe obravši proslavi tʼ imena:</l>
                <l n="6.163" enjamb="3">	Tim blagoslovljena biti ćeš po sve dni,</l>
                <l n="6.164">	Biti ćeš blažena gdi dobru konca nȋ.”</l>
                <l n="6.165" enjamb="3">Takovom nju oni besidom slavljahu				165</l>
                <l n="6.166">	I Bogu pokloni s njom prikazivahu.</l>
-               <l n="6.167" enjamb="3">	Ki godi imahu Olofernja blaga,</l>
+               <l n="6.167" enjamb="4a">	Ki godi imahu Olofernja blaga,</l>
                <l n="6.168">	K njoj ga prinošahu, ona Bogu dȃ ga.</l>
-               <l n="6.169" enjamb="4">A sad veras snaga mojih nju hvaliti*<note place="margin">
+               <l n="6.169" enjamb="4b">A sad veras snaga mojih nju hvaliti*<note place="margin">
                      <hi rend="bold">169*</hi>  Hvala sminʼja i hrabrosti Juditine.</note></l>
-               <l n="6.170" enjamb="4">	Slaba jest i naga: ništar manj naviti				170</l>
+               <l n="6.170" enjamb="4b">	Slaba jest i naga: ništar manj naviti				170</l>
                <l n="6.171" enjamb="3">	Neću se šćediti hvale, koko mogu,</l>
                <l n="6.172">	Jer se isčuditi dilu nje ne mogu.</l>
                <l n="6.173" enjamb="3">Sminost svoju mnogu ukaza Delbora</l>
@@ -2198,14 +2196,14 @@
                <l n="6.178" enjamb="3">	Jer kralja uhili od Kane Jabina,</l>
                <l n="6.179" enjamb="3">	Kadano bȋ smina Sisaru ubiti,</l>
                <l n="6.180">	Kino k njemu plina općaše nositi.				180</l>
-               <l n="6.181" enjamb="3">Da to učiniti sama a samomu,</l>
-               <l n="6.182" enjamb="3">	I čaval zabiti jur pristrašenomu,</l>
-               <l n="6.183" enjamb="4">	Laglje je ner tomu ki steć meu svojimi</l>
+               <l n="6.181" enjamb="4a">Da to učiniti sama a samomu,</l>
+               <l n="6.182" enjamb="4a">	I čaval zabiti jur pristrašenomu,</l>
+               <l n="6.183" enjamb="4a">	Laglje je ner tomu ki steć meu svojimi</l>
                <l n="6.184">	Prićaše svakomu da će vladat svimi.*<note place="margin">
                      <hi rend="bold">184*</hi>  Sisara: ovi sam bižeći pribiže k Jaheli, ka budući od puka izraelskoga, čineći se da ga će skriti, pokri ga pak mu zabi čaval jedan u slipo oko i ubi ga.
                </note></l>
-               <l n="6.185" enjamb="4">Još je dika s timi i onoj ka Sibi					185</l>
-               <l n="6.186">	Svȉtom svojim snimi glavu kako ribi;</l>
+               <l n="6.185" enjamb="4a">Još je dika s timi i onoj ka Sibi					185</l>
+               <l n="6.186" enjamb="3">	Svȉtom svojim snimi glavu kako ribi;</l>
                <l n="6.187" enjamb="3">	Grad jur na pogibi tad Abela biše</l>
                <l n="6.188">	I u toj potribi tim se slobodiše.*<note place="margin">
                      <hi rend="bold">188*</hi>  Siba smetnju učini  protiv Davidu, hteći gospodovati. Vojvode Davidovi obsedoše ga u Abelu. Žena razumna, da se grad ne razaspe, čini mu glavu usići, varže ju njim niz mir. Zato se vojska dviže, a grad osta prost.
@@ -2215,57 +2213,57 @@
                <l n="6.191" enjamb="3">	Da ka meu veće jih sama vojvodu ubi,</l>
                <l n="6.192">	I tim zatira svih, koli slavnija bȋ!</l>
                <l n="6.193" enjamb="3">Palas smila ne bi toko ni Dijana,</l>
-               <l n="6.194">	Prizvavši joj k sebi s strilami Peana;*<note place="margin">
+               <l n="6.194" enjamb="3">	Prizvavši joj k sebi s strilami Peana;*<note place="margin">
                      <hi rend="bold">194*</hi>  Palas piše se oružna jer dijahu da je božica od arvanje. Dijana dijahu da je božica od lova, zato se piše sa strilami. Pean ali Apolo, nje brat, tokoj nosi strile.</note></l>
                <l n="6.195" enjamb="3">	Ni kano Trojana kralju nos odrubi,			195</l>
-               <l n="6.196">	Sasvim dešperana jer joj sina zgubi;*<note place="margin">
+               <l n="6.196" enjamb="3">	Sasvim dešperana jer joj sina zgubi;*<note place="margin">
                      <hi rend="bold">196*</hi>  Ovo je bila Hekuba, žena kralja od Troje Prijama, ka čineći se nič otajno govorit Polinestoru, kralju od Tracije, nos mu odgrize  jer on biše zgubio sina nje Polidora, koga k njemu biše poslao Prijam z blagom mnozim bojeći se kad Garci podsedoše Troju. I kad zgibe Troja, on ubi Polidora za uzeti sebi blago ko biše donio.</note></l>
-               <l n="6.197" enjamb="3">I keno suzubi muških vojask stahu,</l>
+               <l n="6.197" enjamb="4a">I keno suzubi muških vojask stahu,</l>
                <l n="6.198" enjamb="3">	Jake kako dubi hrabro se nošahu,</l>
                <l n="6.199" enjamb="3">	Na konjih ticahu prez sasa desnoga,</l>
                <l n="6.200" enjamb="3">	Gdino prižimahu kopja bodežnoga,*<note place="margin">
                      <hi rend="bold">200*</hi>  Suzub muških vojask stahu Amazone, ke, da mogu bolje kopjem vladati, prisicahu sas desni.</note>			200</l>
                <l n="6.201" enjamb="3">Ne bi smile toga u obraz pozriti,</l>
                <l n="6.202">	A smila je koga Judita zgubiti.</l>
-               <l n="6.203" enjamb="4">	Koj poni Hipoliti, koj Pantasileji,</l>
+               <l n="6.203" enjamb="4a">	Koj poni Hipoliti, koj Pantasileji,</l>
                <l n="6.204">	More se saviti kruna ka je oveji?*<note place="margin">
                      <hi rend="bold">204*</hi>  Hipolita i Pantasileja jesu bile poglavice od Amazoni.</note>
                </l>
-               <l n="6.205" enjamb="4">Nȋ slave takeji dostojna ka, kada					205</l>
-               <l n="6.206" enjamb="3">	Ču na svojoj meji Babilona grada</l>
-               <l n="6.207" enjamb="3">	Da se sam oblada, od nje se odvargši,</l>
-               <l n="6.208">	Opet ga podklada, kose ne uzvargši;*<note place="margin">
+               <l n="6.205" enjamb="4b">Nȋ slave takeji dostojna ka, kada					205</l>
+               <l n="6.206" enjamb="4a">	Ču na svojoj meji Babilona grada</l>
+               <l n="6.207" enjamb="4a">	Da se sam oblada, od nje se odvargši,</l>
+               <l n="6.208" enjamb="3">	Opet ga podklada, kose ne uzvargši;*<note place="margin">
                      <hi rend="bold">208*</hi>  Ovo je bila Semiramis, kraljica od Asirije, ka, kose pletući, ču da se je Babilon od nje odvargao. Ne splete druge kose dokla ga opet ne prija.
                </note></l>
-               <l n="6.209" enjamb="4">Ni keno ner svargši neprijatelja s konj</l>
-               <l n="6.210" enjamb="3">	I život mu stargši mečem sikući po nj –			210</l>
+               <l n="6.209" enjamb="4a">Ni keno ner svargši neprijatelja s konj</l>
+               <l n="6.210" enjamb="4a">	I život mu stargši mečem sikući po nj –			210</l>
                <l n="6.211" enjamb="3">	Takov tada zakon biše meu Ksamate –</l>
-               <l n="6.212">	Nimahu taj poklon da budu mužate;*<note place="margin">
+               <l n="6.212" enjamb="3">	Nimahu taj poklon da budu mužate;*<note place="margin">
                      <hi rend="bold">212*</hi>  Ksamate bihu ki stahu na usta Tanaje rike, s kimi i žene vojevahu, ke ne mogahu pojat muža dokle ne ubijahu neprijatelja svojom rukom; taj zakon biše.
                </note></l>
-               <l n="6.213" enjamb="3">Ni ke Pira z bate rekoše odrinut</l>
+               <l n="6.213" enjamb="4a">Ni ke Pira z bate rekoše odrinut</l>
                <l n="6.214" enjamb="3">	Ispod Sparte da te, ali s njom izginut,</l>
-               <l n="6.215">	Zato od nje minut inamo ne htiše:				215</l>
-               <l n="6.216">	Pir osta ostinut jer se i one riše;*<note place="margin">
+               <l n="6.215" enjamb="3">	Zato od nje minut inamo ne htiše:				215</l>
+               <l n="6.216" enjamb="3">	Pir osta ostinut jer se i one riše;*<note place="margin">
                      <hi rend="bold">216*</hi>  Spartani ali Lacedemonezi, videći da jih će potsesti kralj Pir, hotihu žene dati van na otocih. One ne htiše, hoteći i one braniti grad ali s njim zajedno poginuti. I tako se nosiše da jih on ne more prijati.
                </note></l>
-               <l n="6.217" enjamb="4">Ni ke, kad razbiše Cimbre rimske sile,</l>
-               <l n="6.218" enjamb="3">	Same se ubiše jer nisu hotile</l>
-               <l n="6.219" enjamb="3">	Da budu sidile žive pod inimi</l>
-               <l n="6.220">	Ner u boj hodile tada bihu s kimi;*<note place="margin">
+               <l n="6.217" enjamb="4a">Ni ke, kad razbiše Cimbre rimske sile,</l>
+               <l n="6.218" enjamb="4a">	Same se ubiše jer nisu hotile</l>
+               <l n="6.219" enjamb="4a">	Da budu sidile žive pod inimi</l>
+               <l n="6.220" enjamb="3">	Ner u boj hodile tada bihu s kimi;*<note place="margin">
                      <hi rend="bold">220*</hi>  Cimbri sada se zovu Flamengi. Naskočiše Italiju, učiniše škodu veliku Rimnjanom. Marij razbi jih. Žene ke s njimi bihu ubiše se da ne pridu žive u ruke neprijatelj svojih.</note>			220</l>
-               <l n="6.221" enjamb="3">Ni ona ka primi od Meleagra čast</l>
+               <l n="6.221" enjamb="4a">Ni ona ka primi od Meleagra čast</l>
                <l n="6.222" enjamb="3">	Jer parva meu svimi prostrili prascu mast,</l>
-               <l n="6.223" enjamb="4">	Prascu ki svaku slast kalidonskih dubrav</l>
+               <l n="6.223" enjamb="4a">	Prascu ki svaku slast kalidonskih dubrav</l>
                <l n="6.224">	(Toku imaše vlast) gubljaše ne sustav.*<note place="margin">
                      <hi rend="bold">224*</hi>  Ovo je bila Atlanta, hći Ceneja, kralja od Arkadije, ka s Meleagrom i s inimi gospodičići garčkimi naskočivši prasca divjega u Kalidoniju, parva ga ustrili. I kad ga ubiše, Meleagar ga njoj prisudi.
                </note></l>
-               <l n="6.225" enjamb="4">Svih tih zajedno stavʼ, ter Judite hvale				225</l>
+               <l n="6.225" enjamb="4a">Svih tih zajedno stavʼ, ter Judite hvale				225</l>
                <l n="6.226" enjamb="3">	S hvalami njih pristavʼ, reć ćeš: njih su male,</l>
                <l n="6.227" enjamb="3">	Pri toj su ostale kako pri hartu zec,</l>
                <l n="6.228">	Pri sokolku gale, pri sunačcu misec.</l>
                <l n="6.229" enjamb="3">Njih jošće slave breč po zemlji boboni,</l>
-               <l n="6.230">	Po zemlji je nje teč – a na nebi je nȋ;			230</l>
+               <l n="6.230" enjamb="3">	Po zemlji je nje teč – a na nebi je nȋ;			230</l>
                <l n="6.231" enjamb="3">	Juditina zvoni i visoko gori,</l>
                <l n="6.232" enjamb="3">	Gdi ju s sobom poni, gdi su anʼjelski kori,</l>
                <l n="6.233" enjamb="3">Gdi su rajski dvori, kerubin, serafin,</l>
