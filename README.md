@@ -1,12 +1,12 @@
 # README #
 
-Annotated XML files and queries for comparing enjambements in two poems by Marko Marulić (Split, 1450–1524): the Judita (in Croatian, 1501, first printed in 1521) and the Davidias (in Latin, written around 1517, first edition 1954).
+Annotated XML files and queries for comparing enjambements in two poems by Marko Marulić (Split, 1450–1524): the *Judita* (in Croatian, 1501, first printed in 1521) and the *Davidias* (in Latin, written around 1517, first edition 1954).
 
 Annotated by [Neven Jovanović](https://orcid.org/0000-0002-9119-399X).
 
 # Annotation principles #
 
-The /Judita/ is annotated throughout (Jud., 6 Cantos, 2126 verses). From the /Davidias/ (Dav., 14 Cantos, 6765 verses) I annotated a sample containing Cantos 1, 2, 8, 9, 13 and 14 (2849 verses).
+The *Judita* is annotated throughout (Jud., 6 Cantos, 2126 verses). From the *Davidias* (Dav., 14 Cantos, 6765 verses) I annotated a sample containing Cantos 1, 2, 8, 9, 13 and 14 (2849 verses).
 
 We distinguish four levels of enjambements.
 
@@ -17,7 +17,9 @@ We distinguish four levels of enjambements.
 
 # How to use? #
 
-* The annotated texts (TEI XML) are in the repository. Judita = [marulic_judita_lucin_tekst-enjambement.xml](marulic_judita_lucin_tekst-enjambement.xml), Davidias = [marul-mar-dauid-enjambement.xml](marul-mar-dauid-enjambement.xml)
+* The annotated texts (TEI XML) are in the repository. 
+* Judita = [marulic_judita_lucin_tekst-enjambement.xml](marulic_judita_lucin_tekst-enjambement.xml)
+* Davidias = [marul-mar-dauid-enjambement.xml](marul-mar-dauid-enjambement.xml)
 
 Open the files in an XML editor, analyze them with XPath or XQuery.
 
@@ -52,9 +54,9 @@ Find all annotated enjambements of type 4b in the subset of Dav.
 
 # Sources #
 
-The edition of Judita was prepared by Bratislav Lučin for Hrvatski stihovi i proza / Marko Marulić ; priredio i transkribirao Bratislav Lučin, Zagreb : Matica hrvatska, 2018. (Stoljeća hrvatske književnosti ; knj. 137). The XML edition was prepared by Neven Jovanović.
+The edition of Judita was prepared by Bratislav Lučin for the book *Hrvatski stihovi i proza* / Marko Marulić ; priredio i transkribirao Bratislav Lučin, Zagreb : Matica hrvatska, 2018. (Stoljeća hrvatske književnosti ; knj. 137). The XML edition was prepared by Neven Jovanović.
 
-The edition of Davidias, based on Gortan 1984 = Davidijada / Marko Marulić ; preveo i komentirao Branimir Glavičić ; latinski tekst priredio Veljko Gortan, Split : Književni krug, 1984. (Splitski književni krug. Humanisti ; knj. 4, sv. 2). The XML edition was prepared by Neven Jovanović and included in the [Croatiae auctores Latini](http://croala.ffzg.unizg.hr) digital collection.
+The edition of Davidias, based on Gortan 1984 = *Davidijada* / Marko Marulić ; preveo i komentirao Branimir Glavičić ; latinski tekst priredio Veljko Gortan, Split : Književni krug, 1984. (Splitski književni krug. Humanisti ; knj. 4, sv. 2). The XML edition was prepared by Neven Jovanović and included in the [Croatiae auctores Latini](http://croala.ffzg.unizg.hr) digital collection.
 
 # Who do I talk to? #
 
