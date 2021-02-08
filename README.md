@@ -13,7 +13,7 @@ We distinguish four levels of enjambements.
 1. No enjambement, no annotation
 2. Verse end falls between a clause and its expanding phrase (its non-essential extension); annotated by `@enjamb="3"`
 3. Verse end separates the essential parts of one and the same clause (subject from verb etc); annotated by `@enjamb="4a"`
-4. Verse end separates parts of one and the same phrase (attribute from noun etc); annotated by `@enjamb="4b"`
+4. Verse end separates parts of one and the same phrase (attribute from noun etc), verse end falling between constituents between which strong cohesion obtains; annotated by `@enjamb="4b"`
 
 # How to use? #
 
@@ -49,7 +49,6 @@ Find all annotated enjambements of type 4b in the subset of Dav.
 
 [CC Attribution 4.0 International](LICENSE.md)
 
-(https://github.com/frej/fast-export)) on 2018-08-24.
 
 
 # Sources #
