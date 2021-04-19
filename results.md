@@ -12,10 +12,10 @@ Enjambent in all Jud.: 1521 of 2126 = **72%**
 
 | Enjambent type | Dav. | Jud. |
 |---- |--- |--- |
-| type 0 | 555 | 605 |
-| type 3 | 603 | 950 |
-| type 4a | 743 | 461 |
-| type 4b | D575 | J110 |
+| type 0 | 555 / 22% | 605 / 28% |
+| type 3 | 603 / 24% | 950 / 45% |
+| type 4a | 743 / 30% | 461 / 21,6% |
+| type 4b | 575 / 23% | 110 / 5% |
 
 ## Enjambment by cantos and type
 
