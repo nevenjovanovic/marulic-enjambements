@@ -22,6 +22,12 @@ first two and the last two cantos of the Davidias. Relevant conclusions, however
 + Petrović, Svetozar. "Opkoračenje u srpskohrvatskom stihu: postojana podloga", Oblik i smisao, Novi Sad : Matica srpska, 1986, 231-246.
 + Skok, Petar. "O stilu Marulićeve Judite", Zbornik u proslavu petstogodišnjice rođenja Marka. Marulića 1450—1950, Djela JAZU, knj. 39, Zagreb 1950, 167-241.
 
+## Digital sources
+
+A digital version of Judita is available for search (through Philologic 4 interface) in a [collection of works in Croatian by Marulić and Petar Hektorović](http://solr.ffzg.hr/philo4/hrvatski/).
+
+A digital version of the Davidias (and other Latin poems by Marulić) is published in the [Croatiae auctores Latini](http://croala.ffzg.unizg.hr) digital collection.
+
 
 # Annotation principles #
 
@@ -81,6 +87,8 @@ The edition of Davidias, based on Gortan 1984 = *Davidijada* / Marko Marulić ; 
 * Repo owner: [Neven Jovanović](https://orcid.org/0000-0002-9119-399X)
 
 # Preliminary results #
+
+See more updates and details on the special [results page](results.md).
 
 ## Judita ##
 
