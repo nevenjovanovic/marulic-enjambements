@@ -40,6 +40,22 @@ We distinguish four levels of enjambements.
 3. Verse end separates the essential parts of one and the same clause (subject from verb etc); annotated by `@enjamb="4a"`
 4. Verse end separates parts of one and the same phrase (attribute from noun etc), verse end falling between constituents between which strong cohesion obtains; annotated by `@enjamb="4b"`
 
+# Preliminary results #
+
+Enjambment in Dav. (annotated): 1924 of 2479 = **78%**  
+Enjambent in all Jud.: 1521 of 2126 = **72%**
+
+| Enjambent type | Dav. | Jud. |
+|---- |--- |--- |
+| type 0 | 555 / 22% | 607 / 28% |
+| type 3 | 605 / 24% | 952 / 45% |
+| type 4a | 745 / 30% | 518 / 24% |
+| type 4b | 572 / 23% | 51 / 2% |
+
+
+See more updates and details on the special [results page](results.md).
+
+
 # How to use? #
 
 * The annotated texts (TEI XML) are in the repository. 
@@ -86,15 +102,4 @@ The edition of Davidias, based on Gortan 1984 = *Davidijada* / Marko Marulić ; 
 
 * Repo owner: [Neven Jovanović](https://orcid.org/0000-0002-9119-399X)
 
-# Preliminary results #
 
-See more updates and details on the special [results page](results.md).
-
-## Judita ##
-
-2126 verses, 1521 enjambements: 950 type 3, 458 type 4a, 110 type 4b
-
- 
-## Davidias ##
-
-2849 verses in the sample, 2237 enjambements: 704 type 3
