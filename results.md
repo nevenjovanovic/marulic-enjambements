@@ -13,15 +13,15 @@ Enjambent in all Jud.: 1521 of 2126 = **72%**
 | Enjambent type | Dav. | Jud. |
 |---- |--- |--- |
 | type 0 | 555 / 22% | 607 / 28% |
-| type 3 | 605 / 24% | 952 / 45% |
-| type 4a | 745 / 30% | 518 / 24% |
-| type 4b | 572 / 23% | 51 / 2% |
+| type 1 | 605 / 24% | 952 / 45% |
+| type 2a | 745 / 30% | 518 / 24% |
+| type 2b | 572 / 23% | 51 / 2% |
 
 ## Enjambment by cantos and type
 
 ### The Davidias
 
-| Canto (verses) | type 3 | type 4a | type 4b |
+| Canto (verses) | type 1 | type 2a | type 2b |
 |--- |--- |---|--- |
 | D1 (498) | 107 / 21% | 163 / 32,5% | 110 / 22% |
 | D2 (530) | 140 / 26% | 151 / 28% | 116 / 22% |
@@ -31,7 +31,7 @@ Enjambent in all Jud.: 1521 of 2126 = **72%**
 
 ### Judita
 
-| Canto (verses) | type 3 | type 4a | type 4b |
+| Canto (verses) | type 1 | type 2a | type 2b |
 |--- |--- |---|--- |
 | J1 (309) | 156 / **50%** | 59 / **16%** | 4 / **1%** | 
 | J2 (333) | 127 / **38%** | 87 / 26% | 9 / 2,7% | 

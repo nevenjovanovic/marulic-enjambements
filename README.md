@@ -6,7 +6,7 @@ Annotated by [Neven Jovanović](https://orcid.org/0000-0002-9119-399X).
 
 # Usporedba opkoračenja u Juditi i Davidijadi
 
-Na stilsku vrijednost opkoračenja u Juditi upozorili su Petar Skok 1950. (»prema uzoru latinskog slobodnog poretka u stihovima Marulić je dobio... mnoštvo enjambementa, koji su sasvim neprirodni u hrvatskim stihovima«) te, tridesetak godina kasnije, Svetozar Petrović (»pojedinačni primjeri opkoračenja u Marulićevoj Juditi najčešće se predstavljaju kao sredstvo nekog retoričkog efekta... Marulićeva upotreba opkoračenja je pažljivo zamišljen postupak«). Istražit ću koliko se i kako Marulić koristi opkoračenjima u Davidijadi, a koliko i kako u Juditi. Pritom ću definirati i primjerima prikazati vrste razmatranih opkoračenja (tri glavne skupine, od kojih najizraženija opkoračenja imaju dvije podskupine) i izvijestiti o »mapi« Marulićevih opkoračenja, nastaloj obilježavanjem digitalnih tekstova Judite i Davidijade. Pretpostavljam da su, sukladno uzusu poezije na latinskom, sve vrste opkoračenja prisutnije u Davidijadi nego u Juditi; želim provjeriti (donekle proturječne) tvrdnje Skoka i Petrovića. Preliminarno istraživanje u 2126 stihova Judite bilježi 1464 opkoračenja (68%), dok u ukupno 1887 stihova prva dva i posljednja dva pjevanja Davidijade ima 1479 opkoračenja (78%). No, prave spoznaje o stilskoj vrijednosti dat će tek pomno čitanje i raščlamba.
+Na stilsku vrijednost opkoračenja u Juditi upozorili su Petar Skok 1950. (»prema uzoru latinskog slobodnog poretka u stihovima Marulić je dobio... mnoštvo enjambementa, koji su sasvim neprirodni u hrvatskim stihovima«) te, tridesetak godina kasnije, Svetozar Petrović (»pojedinačni primjeri opkoračenja u Marulićevoj Juditi najčešće se predstavljaju kao sredstvo nekog retoričkog efekta... Marulićeva upotreba opkoračenja je pažljivo zamišljen postupak«). Istražit ću koliko se i kako Marulić koristi opkoračenjima u Davidijadi, a koliko i kako u Juditi. Pritom ću definirati i primjerima prikazati vrste razmatranih opkoračenja (tri glavne skupine, od kojih najizraženija opkoračenja imaju dvije podskupine) i izvijestiti o »mapi« Marulićevih opkoračenja, nastaloj obilježavanjem digitalnih tekstova Judite i Davidijade. Pretpostavljam da su, sukladno uzusu poezije na latinskom, sve vrste opkoračenja prisutnije u Davidijadi nego u Juditi; želim provjeriti proturječne tvrdnje Skoka i Petrovića. Preliminarno istraživanje u 2126 stihova Judite bilježi 1464 opkoračenja (68%), dok u ukupno 1887 stihova prva dva i posljednja dva pjevanja Davidijade ima 1479 opkoračenja (78%). No, prave spoznaje o stilskoj vrijednosti dat će tek pomno čitanje i raščlamba.
 
 # A comparison of enjambment in Judita and Davidias
 
@@ -31,14 +31,14 @@ A digital version of the Davidias (and other Latin poems by Marulić) is publish
 
 # Annotation principles #
 
-The *Judita* is annotated throughout (Jud., 6 Cantos, 2126 verses). From the *Davidias* (Dav., 14 Cantos, 6765 verses) I annotated a sample containing Cantos 1, 2, 8, 9, 13 and 14 (2849 verses).
+The *Judita* is annotated throughout (Jud., 6 Cantos, 2126 verses). From the *Davidias* (Dav., 14 Cantos, 6765 verses) I annotated a sample containing Cantos 1, 2, 7, 8, 9 (2479 verses).
 
 We distinguish four levels of enjambements.
 
 1. No enjambement, no annotation
-2. Verse end falls between a clause and its expanding phrase (its non-essential extension); annotated by `@enjamb="3"`
-3. Verse end separates the essential parts of one and the same clause (subject from verb etc); annotated by `@enjamb="4a"`
-4. Verse end separates parts of one and the same phrase (attribute from noun etc), verse end falling between constituents between which strong cohesion obtains; annotated by `@enjamb="4b"`
+2. Verse end falls between a clause and its expanding phrase (its non-essential extension); annotated by `@enjamb="1"`
+3. Verse end separates the essential parts of one and the same clause (subject from verb etc); annotated by `@enjamb="2a"`
+4. Verse end separates parts of one and the same phrase (attribute from noun etc), verse end falling between constituents between which strong cohesion obtains; annotated by `@enjamb="2b"`
 
 # Preliminary results #
 
@@ -48,9 +48,9 @@ Enjambent in all Jud.: 1521 of 2126 = **72%**
 | Enjambent type | Dav. | Jud. |
 |---- |--- |--- |
 | type 0 | 555 / 22% | 607 / 28% |
-| type 3 | 605 / 24% | 952 / 45% |
-| type 4a | 745 / 30% | 518 / 24% |
-| type 4b | 572 / 23% | 51 / 2% |
+| type 1 | 605 / 24% | 952 / 45% |
+| type 2a | 745 / 30% | 518 / 24% |
+| type 2b | 572 / 23% | 51 / 2% |
 
 
 See more updates and details on the special [results page](results.md).
@@ -71,19 +71,19 @@ Use an XPath processor, for example in [oXygen XML Editor](https://www.oxygenxml
 Find all verses in the annotated subset of Dav.
 
 ```xpath
-//div[@n=(1,2,8,9,13,14)]/l
+//div[@n=(1,2,7,8,9)]/l
 ```
 
 Find all annotated enjambements in the subset of Dav.
 
 ```xpath
-//div[@n=(1,2,8,9,13,14)]/l[@enjamb]
+//div[@n=(1,2,7,8,9)]/l[@enjamb]
 ```
 
-Find all annotated enjambements of type 4b in the subset of Dav.
+Find all annotated enjambements of type 2b in the subset of Dav.
 
 ```xpath
-//div[@n=(1,2,8,9,13,14)]/l[@enjamb="4b"]
+//div[@n=(1,2,7,8,9)]/l[@enjamb="2b"]
 ```
 
 # License #
