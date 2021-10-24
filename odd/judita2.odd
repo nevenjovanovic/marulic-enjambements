@@ -32,9 +32,12 @@
             <rendition selector="span[n]::before">
   content: "[" attr(n) "]\2004";
   color: #bebebe;
-  visibility: visible;
   position: absolute;
   left: -3em;
+</rendition>
+<rendition selector="span.margin-note">
+  color: #004225;
+  font-size: small;
 </rendition>
             </tagsDecl>
         </encodingDesc>
