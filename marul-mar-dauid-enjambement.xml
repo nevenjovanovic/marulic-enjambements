@@ -15,7 +15,7 @@
             </editor>
             <respStmt>
                <resp>Hanc editionem electronicam curavit</resp>
-               <persName>
+               <persName xml:id="NJ">
                   <ref type="viaf" target="6913774">Neven Jovanović</ref>
                </persName>
             </respStmt>
@@ -7397,214 +7397,214 @@
             <div type="liber" met="hexameter" n="14">
                <head xml:id="section15.2"/>
                <note place="margin">Adonias appetit regnum</note>
-               <l n="14.1" enjamb="4"> Vidit Adonias, Agita de coniuge natus</l>
-               <l n="14.2" enjamb="4">Dauidi, multa confectum ętate parentem </l>
+               <l n="14.1" enjamb="2b"> Vidit Adonias, Agita de coniuge natus</l>
+               <l n="14.2" enjamb="2a">Dauidi, multa confectum ętate parentem </l>
                <l n="14.3" enjamb="1">Ad metam duxisse suę curricula uitę, </l>
                <l n="14.4" enjamb="1">Et mente elatus regnique cupidine captus </l>
-               <l n="14.5" enjamb="4"> Ędificat currus, equitum peditumque cateruam </l>
+               <l n="14.5" enjamb="2a"> Ędificat currus, equitum peditumque cateruam </l>
                <l n="14.6">Comparat et iussit, se iam pro rege salutent. </l>
-               <l n="14.7" enjamb="4">Pręcipui fuerant illius signa secuti </l>
-               <l n="14.8" enjamb="1">Militię princeps dimisso rege Ioabus </l>
+               <l n="14.7" enjamb="2b">Pręcipui fuerant illius signa secuti </l>
+               <l n="14.8" enjamb="2a">Militię princeps dimisso rege Ioabus </l>
                <l n="14.9">Atque Abiatharus pura cum ueste sacerdos. </l>
-               <l n="14.10" enjamb="4"> At uero fidei sanctę mentisque probatę </l>
-               <l n="14.11" enjamb="1">Inuenti, firmata quibus sententia mansit, </l>
+               <l n="14.10" enjamb="2b"> At uero fidei sanctę mentisque probatę </l>
+               <l n="14.11" enjamb="2a">Inuenti, firmata quibus sententia mansit, </l>
                <l n="14.12" enjamb="1">Ab Dauide suo nunquam discedere rege: </l>
                <note place="margin">Banaias, Sadoch</note>
-               <l n="14.13" enjamb="1"> Ioiada natus Banaias atque Sadochus</l>
+               <l n="14.13" enjamb="2a"> Ioiada natus Banaias atque Sadochus</l>
                <note place="margin">Nathanus</note>
                <l n="14.14" enjamb="1"> Flamen cumque illo uates Nathanus et ipsi,</l>
                <note place="margin">Celethi, Phelethi</note>
                <l n="14.15" enjamb="1"> Nomine Celethos quos dicunt atque Phelethos,</l>
-               <l n="14.16" enjamb="4">Noti Marte uiri belloque experta iuuentus </l>
-               <l n="14.17" enjamb="4">Partis regis erant. Fonti uicina Rogello </l>
+               <l n="14.16" enjamb="2a">Noti Marte uiri belloque experta iuuentus </l>
+               <l n="14.17" enjamb="2a">Partis regis erant. Fonti uicina Rogello </l>
                <l n="14.18">Stabat acuta silex: Zeletham nomine dicunt. </l>
-               <l n="14.19" enjamb="1">Hanc prope Adonias sacris de more litatis </l>
-               <l n="14.20" enjamb="1"> Conuenire iubet Dauidis germina fratres </l>
-               <l n="14.21" enjamb="4">Atque tribus Iudę partem sociosque patrandi </l>
-               <l n="14.22" enjamb="4">Audacis facti, cuius manifesta cucurrit </l>
-               <l n="14.23" enjamb="4">Suspicio. Quoniam, quos nouerat esse fideles </l>
+               <l n="14.19" enjamb="2a">Hanc prope Adonias sacris de more litatis </l>
+               <l n="14.20" enjamb="2a"> Conuenire iubet Dauidis germina fratres </l>
+               <l n="14.21" enjamb="2b">Atque tribus Iudę partem sociosque patrandi </l>
+               <l n="14.22" enjamb="2b">Audacis facti, cuius manifesta cucurrit </l>
+               <l n="14.23" enjamb="2a">Suspicio. Quoniam, quos nouerat esse fideles </l>
                <l n="14.24" enjamb="1">Dauidi, piguit tunc illos uelle uocare, </l>
-               <l n="14.25" enjamb="1"> Hoc est Nathanum Sadochumque et Banaiam </l>
-               <l n="14.26" enjamb="1">Atque ipsum, promissa patris quem sceptra manebant, </l>
-               <l n="14.27" enjamb="4">Bersaba genitum Salomonem, et cętera fidę </l>
-               <l n="14.28" enjamb="1">Pectora militię. Salomonis matre uocata </l>
-               <l n="14.29" enjamb="1">Nathanus uates scelus hoc et facta nefanda </l>
+               <l n="14.25" enjamb="2a"> Hoc est Nathanum Sadochumque et Banaiam </l>
+               <l n="14.26" enjamb="2b">Atque ipsum, promissa patris quem sceptra manebant, </l>
+               <l n="14.27" enjamb="2b">Bersaba genitum Salomonem, et cętera fidę </l>
+               <l n="14.28" enjamb="2a">Pectora militię. Salomonis matre uocata </l>
+               <l n="14.29" enjamb="2a">Nathanus uates scelus hoc et facta nefanda </l>
                <note place="margin">Nathan ad Bersabam</note>
-               <l n="14.30" enjamb="4"> Detestatus ait: "Num te, Bersaba, latere</l>
-               <l n="14.31" enjamb="4">Debet, Adonias quid iam molitur? En ipse </l>
+               <l n="14.30" enjamb="2b"> Detestatus ait: "Num te, Bersaba, latere</l>
+               <l n="14.31" enjamb="2a">Debet, Adonias quid iam molitur? En ipse </l>
                <l n="14.32">Regnat, et est facti talis mens inscia regis. </l>
                <l n="14.33" enjamb="1">Consiliis nunc usa meis i, dicito regi: </l>
-               <l n="14.34" enjamb="4">'O rex, uiue diu! Num te iurasse pigebit </l>
-               <l n="14.35" enjamb="4"> Ancillę quandoque tuę Salomona futurum, </l>
+               <l n="14.34" enjamb="2a">'O rex, uiue diu! Num te iurasse pigebit </l>
+               <l n="14.35" enjamb="2b"> Ancillę quandoque tuę Salomona futurum, </l>
                <l n="14.36">Quem tibi progenui, tua iam post funera regem? </l>
-               <l n="14.37" enjamb="4">Regnat Adonias.' Te sic cum rege loquentem </l>
+               <l n="14.37" enjamb="2a">Regnat Adonias.' Te sic cum rege loquentem </l>
                <l n="14.38">Adueniens sermone meo uerbisque iuuabo." </l>
-               <l n="14.39" enjamb="4">Ęger erat senio Dauid lectoque iacenti, </l>
+               <l n="14.39" enjamb="2a">Ęger erat senio Dauid lectoque iacenti, </l>
                <l n="14.40"> Quicquid opus fuerat, solers Abisaca ferebat. </l>
-               <l n="14.41" enjamb="4">Venit Bersabe regisque ingressa cubile, </l>
-               <l n="14.42" enjamb="4">Inclinat submissa caput. Rex coniuge uisa, </l>
-               <l n="14.43" enjamb="4">Quid uellet, rogat ipse prior. Cui protinus illa </l>
+               <l n="14.41" enjamb="2a">Venit Bersabe regisque ingressa cubile, </l>
+               <l n="14.42" enjamb="2a">Inclinat submissa caput. Rex coniuge uisa, </l>
+               <l n="14.43" enjamb="2a">Quid uellet, rogat ipse prior. Cui protinus illa </l>
                <note place="margin">Bersabe ad regem</note>
                <l n="14.44" enjamb="1"> Sic est orsa loqui: "Regum sanctissime, salue,</l>
-               <l n="14.45" enjamb="4"> Cuius ueridico rerum certissima quęque </l>
+               <l n="14.45" enjamb="2b"> Cuius ueridico rerum certissima quęque </l>
                <l n="14.46" enjamb="1">Ore fluunt falsique nihil depromitur unquam. </l>
-               <l n="14.47" enjamb="4">Per cęleste mihi iurasti numen, et istud </l>
-               <l n="14.48" enjamb="4">Mente gero memori, quum te decędere terris </l>
-               <l n="14.49" enjamb="4">Fata uolent, regni quod sit recturus habenas </l>
+               <l n="14.47" enjamb="2a">Per cęleste mihi iurasti numen, et istud </l>
+               <l n="14.48" enjamb="2a">Mente gero memori, quum te decędere terris </l>
+               <l n="14.49" enjamb="2a">Fata uolent, regni quod sit recturus habenas </l>
                <l n="14.50"> Et solio Salomon post te sessurus in alto. </l>
-               <l n="14.51" enjamb="4">Promissum turbare tuum pactumque fidele </l>
-               <l n="14.52" enjamb="4">Ausus, Adonias regnat. Tu nescius horum, </l>
-               <l n="14.53" enjamb="4">Quę nunc te uiuo fiunt. Mactauit opimos </l>
+               <l n="14.51" enjamb="2a">Promissum turbare tuum pactumque fidele </l>
+               <l n="14.52" enjamb="2a">Ausus, Adonias regnat. Tu nescius horum, </l>
+               <l n="14.53" enjamb="2b">Quę nunc te uiuo fiunt. Mactauit opimos </l>
                <l n="14.54" enjamb="1">Ecce boues ouiumque gregem fratresque uocauit </l>
-               <l n="14.55" enjamb="1"> Militięque ducem pręcepit adesse Ioabum </l>
-               <l n="14.56" enjamb="4">Atque Abiatharum. Spreuit Salomona superbus </l>
+               <l n="14.55" enjamb="2a"> Militięque ducem pręcepit adesse Ioabum </l>
+               <l n="14.56" enjamb="2b">Atque Abiatharum. Spreuit Salomona superbus </l>
                <l n="14.57">Ille tuum pariterque meum spretumque reliquit. </l>
-               <l n="14.58" enjamb="4">Ergo tuo post te sceptro potietur et idem </l>
+               <l n="14.58" enjamb="2a">Ergo tuo post te sceptro potietur et idem </l>
                <l n="14.59">Nos tua proiectos longe de sede repellet?" </l>
                <l n="14.60" enjamb="1"> Nondum cessarant Bersabes uerba loquentis, </l>
                <note place="margin">Nathan</note>
-               <l n="14.61" enjamb="4"> Quando Nathanus captato tempore uates</l>
+               <l n="14.61" enjamb="2a"> Quando Nathanus captato tempore uates</l>
                <l n="14.62">Affuit ad limen ueniens portamque cubilis. </l>
-               <l n="14.63" enjamb="4">Hoc referunt regi iussusque intrare propheta </l>
+               <l n="14.63" enjamb="2a">Hoc referunt regi iussusque intrare propheta </l>
                <l n="14.64" enjamb="1">Venit et ad terram Dauidem pronus adorat: </l>
-               <l n="14.65" enjamb="4"> "Ęternum, rex, uiue," inquit "cui summa potestas </l>
-               <l n="14.66" enjamb="4">Israhelitani populi data munere magni </l>
-               <l n="14.67" enjamb="4">Et firmata dei est. Nunquid tua iussa secutus </l>
-               <l n="14.68" enjamb="4">Regnat Adonias? Nunquid concesseris illi </l>
-               <l n="14.69" enjamb="4">Sceptra uolens soliumque tuum? Nam tempore in isto </l>
-               <l n="14.70" enjamb="4"> Mactauit pingues uitulos ouiumque bidentum </l>
-               <l n="14.71" enjamb="1">Veruecumque gregem, mensis epulisque paratis </l>
-               <l n="14.72" enjamb="1">Iussit adesse suos lauta ad conuiuia fratres </l>
-               <l n="14.73" enjamb="4">Egregiosque uiros, curandis Abiatharum </l>
+               <l n="14.65" enjamb="2b"> "Ęternum, rex, uiue," inquit "cui summa potestas </l>
+               <l n="14.66" enjamb="2b">Israhelitani populi data munere magni </l>
+               <l n="14.67" enjamb="2a">Et firmata dei est. Nunquid tua iussa secutus </l>
+               <l n="14.68" enjamb="2a">Regnat Adonias? Nunquid concesseris illi </l>
+               <l n="14.69" enjamb="2a">Sceptra uolens soliumque tuum? Nam tempore in isto </l>
+               <l n="14.70" enjamb="2b"> Mactauit pingues uitulos ouiumque bidentum </l>
+               <l n="14.71" enjamb="2a">Veruecumque gregem, mensis epulisque paratis </l>
+               <l n="14.72" enjamb="2a">Iussit adesse suos lauta ad conuiuia fratres </l>
+               <l n="14.73" enjamb="2b">Egregiosque uiros, curandis Abiatharum </l>
                <l n="14.74">Addictum sacris bellatoremque Ioabum. </l>
-               <l n="14.75" enjamb="4"> Vescentum uox illa fuit: Rex omnibus unus </l>
-               <l n="14.76" enjamb="4">Pręsit Adonias! Quos fidos esse sciebat </l>
+               <l n="14.75" enjamb="2a"> Vescentum uox illa fuit: Rex omnibus unus </l>
+               <l n="14.76" enjamb="2a">Pręsit Adonias! Quos fidos esse sciebat </l>
                <l n="14.77" enjamb="1">Ipse tibi, cauit tales ad sacra uocare: </l>
-               <l n="14.78" enjamb="4">Ioiada genitum Banaiam meque tuumque </l>
+               <l n="14.78" enjamb="2b">Ioiada genitum Banaiam meque tuumque </l>
                <l n="14.79" enjamb="1">Sadochum, cui sunt adolenda altaria curę, </l>
-               <l n="14.80" enjamb="4"> Atque abs te genitum Salomonem. Talia forsan </l>
-               <l n="14.81" enjamb="4">Permissu sunt acta tuo, nec dicere nobis, </l>
-               <l n="14.82" enjamb="4">Rex, tibi cura fuit, quem post te sceptra tenere </l>
+               <l n="14.80" enjamb="2a"> Atque abs te genitum Salomonem. Talia forsan </l>
+               <l n="14.81" enjamb="2a">Permissu sunt acta tuo, nec dicere nobis, </l>
+               <l n="14.82" enjamb="2a">Rex, tibi cura fuit, quem post te sceptra tenere </l>
                <l n="14.83">Decernas regni solioque sedere superbo." </l>
-               <l n="14.84" enjamb="4">Hęc ubi dicta dedit Nathanus, protinus ille </l>
-               <l n="14.85" enjamb="4"> Imperat acciri Bersaben. Cęsserat ipsa </l>
-               <l n="14.86" enjamb="4">Hinc etenim, fieret quo libera copia fandi </l>
-               <l n="14.87" enjamb="4">Nathano, quicquid uellet. Coramque uocata </l>
+               <l n="14.84" enjamb="2a">Hęc ubi dicta dedit Nathanus, protinus ille </l>
+               <l n="14.85" enjamb="2a"> Imperat acciri Bersaben. Cęsserat ipsa </l>
+               <l n="14.86" enjamb="2a">Hinc etenim, fieret quo libera copia fandi </l>
+               <l n="14.87" enjamb="2a">Nathano, quicquid uellet. Coramque uocata </l>
                <l n="14.88" enjamb="1">Astitit atque ipsi respondit talia Dauid: </l>
                <note place="margin">Rex ad Bersaben</note>
-               <l n="14.89" enjamb="4"> "Nil dubites, Bersaba, modo! Tibi numina testor</l>
-               <l n="14.90" enjamb="4"> Sancta dei, qui me tandem seruauit ab omni </l>
-               <l n="14.91" enjamb="4">Sorte mali seruumque suum miseratus et urbem </l>
-               <l n="14.92" enjamb="4">Erruit aduersis, sicut Salomona futurum </l>
+               <l n="14.89" enjamb="2b"> "Nil dubites, Bersaba, modo! Tibi numina testor</l>
+               <l n="14.90" enjamb="2b"> Sancta dei, qui me tandem seruauit ab omni </l>
+               <l n="14.91" enjamb="2a">Sorte mali seruumque suum miseratus et urbem </l>
+               <l n="14.92" enjamb="2b">Erruit aduersis, sicut Salomona futurum </l>
                <l n="14.93" enjamb="1">Post mea fata tibi regem dominumque spopondi </l>
-               <l n="14.94" enjamb="4">Astrinxique fidem iurans, sic fiet in ista </l>
-               <l n="14.95" enjamb="4"> Te spectante die." Submisso uertice grates </l>
-               <l n="14.96" enjamb="4">Egit Bersabe et Dauidi sęcula multa </l>
-               <l n="14.97" enjamb="4">Optauit uitę. Rex inde repente uocatis </l>
-               <l n="14.98" enjamb="1">Principibus Nathano et Sadocho et Banaia </l>
+               <l n="14.94" enjamb="2b">Astrinxique fidem iurans, sic fiet in ista </l>
+               <l n="14.95" enjamb="2b">Te spectante die." Submisso uertice grates </l>
+               <l n="14.96" enjamb="2b">Egit Bersabe et Dauidi sęcula multa </l>
+               <l n="14.97" enjamb="2b">Optauit uitę. Rex inde repente uocatis </l>
+               <l n="14.98" enjamb="2a">Principibus Nathano et Sadocho et Banaia </l>
                <note place="margin">Dauid</note>
                <l n="14.99" enjamb="1"> "Ite," inquit "nostram uobis adiungite gentem</l>
-               <l n="14.100" enjamb="1"> Et super instratam phalerato tegmine mulam </l>
-               <l n="14.101" enjamb="4">Ponentes Salomona meum, deducite lęti </l>
-               <l n="14.102" enjamb="1">Ad Gyonis fontes, et tu, Sadoche sacerdos, </l>
-               <l n="14.103" enjamb="1">Tu, Nathane, simul, uenturi conscie fati, </l>
+               <l n="14.100" enjamb="2a"> Et super instratam phalerato tegmine mulam </l>
+               <l n="14.101" enjamb="2a">Ponentes Salomona meum, deducite lęti </l>
+               <l n="14.102" enjamb="2a">Ad Gyonis fontes, et tu, Sadoche sacerdos, </l>
+               <l n="14.103" enjamb="2a">Tu, Nathane, simul, uenturi conscie fati, </l>
                <l n="14.104" enjamb="1">Vngite uos illum diuino chrismate regem, </l>
-               <l n="14.105" enjamb="1"> Increpitate tubis hilares et dicite: </l>
-               <l n="14.106" enjamb="4">'Viuat, Viuat rex Salomon!' Quem rursum moenibus istis </l>
+               <l n="14.105" enjamb="1">Increpitate tubis hilares et dicite: 'Viuat, </l>
+               <l n="14.106" enjamb="2a">Viuat rex Salomon!' Quem rursum moenibus istis </l>
                <l n="14.107" enjamb="1">Reddite et in solio nostro residere iubete, </l>
-               <l n="14.108" enjamb="1">Vt pro me regnet sceptroque innixus eburno </l>
-               <l n="14.109" enjamb="4">Israhelitanam gentem regat, imperet unus </l>
+               <l n="14.108" enjamb="2a">Vt pro me regnet sceptroque innixus eburno </l>
+               <l n="14.109" enjamb="2a">Israhelitanam gentem regat, imperet unus </l>
                <l n="14.110"> Omnibus, unius simul omnes iussa facessant." </l>
-               <l n="14.111" enjamb="4">His illi auditis, "Animo" dixere "libenti </l>
-               <l n="14.112" enjamb="4">Paremus tibi, rex. Firmet tua dicta supernum </l>
-               <l n="14.113" enjamb="4">Numen et ipse deus, qui te seruare periclis </l>
+               <l n="14.111" enjamb="2a">His illi auditis, "Animo" dixere "libenti </l>
+               <l n="14.112" enjamb="2b">Paremus tibi, rex. Firmet tua dicta supernum </l>
+               <l n="14.113" enjamb="2a">Numen et ipse deus, qui te seruare periclis </l>
                <l n="14.114" enjamb="1">Consuerat fortesque tibi qui subdidit hostes, </l>
-               <l n="14.115" enjamb="4"> Ipse tuum Salomona iuuet, sublimius illum </l>
-               <l n="14.116" enjamb="4">Euehat euexit quam te, quem fama per orbem </l>
+               <l n="14.115" enjamb="2a"> Ipse tuum Salomona iuuet, sublimius illum </l>
+               <l n="14.116" enjamb="2a">Euehat euexit quam te, quem fama per orbem </l>
                <l n="14.117">Concelebrat uirtusque super quem sydera tollit." </l>
                <l n="14.118">Nec mora, tres isti collecto milite pergunt, </l>
-               <l n="14.119" enjamb="4">In medio Salomon dorso supereminet alto </l>
+               <l n="14.119" enjamb="2b">In medio Salomon dorso supereminet alto </l>
                <l n="14.120"> Compositus mulę, magna glomerante caterua. </l>
-               <l n="14.121" enjamb="1">Ęquora permensi celeri siluestria cursu, </l>
-               <l n="14.122" enjamb="4">Ad Gyonis leni labentes agmine lymphas </l>
-               <l n="14.123" enjamb="4">Perueniunt. Salomon pecoris frenauit equini </l>
+               <l n="14.121" enjamb="2a">Ęquora permensi celeri siluestria cursu, </l>
+               <l n="14.122" enjamb="2a">Ad Gyonis leni labentes agmine lymphas </l>
+               <l n="14.123" enjamb="2b">Perueniunt. Salomon pecoris frenauit equini </l>
                <l n="14.124" enjamb="1">Gressum desiliens circumque stetere manipli, </l>
-               <l n="14.125" enjamb="1"> Sanctaque Sadochus sumens unguenta sacerdos, </l>
+               <l n="14.125" enjamb="2a"> Sanctaque Sadochus sumens unguenta sacerdos, </l>
                <note place="margin">SALOMON REX</note>
                <l n="14.126"> Bersaba genitrice satum Salomona perunxit.</l>
-               <l n="14.127" enjamb="4">Ille magis gratum spirauit inunctus odorem </l>
+               <l n="14.127" enjamb="2a">Ille magis gratum spirauit inunctus odorem </l>
                <note place="margin">Sacra unctio</note>
                <l n="14.128" enjamb="1"> Quam succi, quos iactat Arabs Babylonque superba</l>
                <l n="14.129" enjamb="1">Assyriumque solum. Non sic opobalsama fragrant, </l>
-               <l n="14.130" enjamb="4"> Non nardus, non myrrha simul, non thura Sabeis </l>
-               <l n="14.131" enjamb="4">Lecta iugis. Etenim superant diapasmata sacra </l>
+               <l n="14.130" enjamb="2b"> Non nardus, non myrrha simul, non thura Sabeis </l>
+               <l n="14.131" enjamb="2a">Lecta iugis. Etenim superant diapasmata sacra </l>
                <l n="14.132">Vnguenti genus omne suo dulcore prophani. </l>
-               <l n="14.133" enjamb="4">Sacrato Salomone cauę clangore canoro </l>
+               <l n="14.133" enjamb="2b">Sacrato Salomone cauę clangore canoro </l>
                <l n="14.134" enjamb="1">Intonuere tubę, psalmos cecinere Leuitę </l>
-               <l n="14.135" enjamb="4"> Belligerique uiri lętas ad sydera uoces </l>
-               <l n="14.136" enjamb="4">Iactarunt pariter: "Salomon regnator in omnes </l>
+               <l n="14.135" enjamb="2a"> Belligerique uiri lętas ad sydera uoces </l>
+               <l n="14.136" enjamb="2b">Iactarunt pariter: "Salomon regnator in omnes </l>
                <l n="14.137">Aspirante deo uiuat feliciter annos!" </l>
                <l n="14.138" enjamb="1">Ille hinc principibus Solymas comitatus abibat, </l>
-               <l n="14.139" enjamb="4">Omnis post illum populi pia cantica coetus </l>
+               <l n="14.139" enjamb="2a">Omnis post illum populi pia cantica coetus </l>
                <l n="14.140"> Vocibus elatis ędunt et cymbala pulsant. </l>
                <l n="14.141" enjamb="1">Pars bifores calamos buccis spirantibus inflant </l>
-               <l n="14.142" enjamb="1">Et pars fila lyrę plectro radente cientes </l>
-               <l n="14.143" enjamb="4">In uarios rumpunt sonitus, uulgaria turba </l>
+               <l n="14.142" enjamb="2a">Et pars fila lyrę plectro radente cientes </l>
+               <l n="14.143" enjamb="2a">In uarios rumpunt sonitus, uulgaria turba </l>
                <l n="14.144">Verbere multiplici Berecinthia tympana tundunt. </l>
                <l n="14.145" enjamb="1"> Hinc reboant siluę, colles clamore resultant </l>
                <l n="14.146">Et rupes egressa cauas simul assonat eccho. </l>
                <l n="14.147">Vrbana intrarunt cum tali tecta triumpho. </l>
-               <l n="14.148" enjamb="4">Sensit Adonias, cuncti sensere tumultum </l>
+               <l n="14.148" enjamb="2b">Sensit Adonias, cuncti sensere tumultum </l>
                <l n="14.149">Conuiuę. Fuerant lecti mensęque remotę. </l>
-               <l n="14.150" enjamb="4"> Inde Ioabus ait: "Quorsum nunc clamor in urbe </l>
-               <l n="14.151" enjamb="4">Ille uirum clangorque tubę? Quidnam ista requirit </l>
-               <l n="14.152" enjamb="4">Lętitię species?" Nec adhuc cessauerat ipse </l>
+               <l n="14.150" enjamb="2b"> Inde Ioabus ait: "Quorsum nunc clamor in urbe </l>
+               <l n="14.151" enjamb="2b">Ille uirum clangorque tubę? Quidnam ista requirit </l>
+               <l n="14.152" enjamb="2a">Lętitię species?" Nec adhuc cessauerat ipse </l>
                <l n="14.153" enjamb="1">Velle loqui, nunc hoc, nunc illud mente uolutans, </l>
-               <l n="14.154" enjamb="1">Ecce Ionathanus, sacri puer Abiathari, </l>
-               <l n="14.155" enjamb="4"> A Solymis ueniens illuc accessit, et ipsi </l>
+               <l n="14.154" enjamb="2a">Ecce Ionathanus, sacri puer Abiathari, </l>
+               <l n="14.155" enjamb="2a"> A Solymis ueniens illuc accessit, et ipsi </l>
                <note place="margin">Adonias</note>
                <l n="14.156" enjamb="1"> Dixit Adonias: "Huc adsis, sancte Leuita,</l>
-               <l n="14.157" enjamb="4">Nuncius esto boni, felicis et omine sortis </l>
-               <l n="14.158" enjamb="4">Consolare tuos, quando fortuna secundo </l>
+               <l n="14.157" enjamb="2b">Nuncius esto boni, felicis et omine sortis </l>
+               <l n="14.158" enjamb="2b">Consolare tuos, quando fortuna secundo </l>
                <l n="14.159" enjamb="1">Successu mea uota fouet." Respondit at ille: </l>
                <note place="margin">Ionathan</note>
                <l n="14.160" enjamb="1"> "Fallit, Adonia, tua te spes, optime, fallit,</l>
-               <l n="14.161" enjamb="4">Aduersa est fortuna tibi. Salomona locauit </l>
-               <l n="14.162" enjamb="4">In solio Dauid. Sadochus quippe sacerdos </l>
-               <l n="14.163" enjamb="4">Et Nathanus eum uates ad Gyona ductum </l>
+               <l n="14.161" enjamb="2a">Aduersa est fortuna tibi. Salomona locauit </l>
+               <l n="14.162" enjamb="2a">In solio Dauid. Sadochus quippe sacerdos </l>
+               <l n="14.163" enjamb="2a">Et Nathanus eum uates ad Gyona ductum </l>
                <l n="14.164" enjamb="1">Vnguine sacrarunt sancto regemque uocarunt </l>
                <l n="14.165"> Ingressique urbem solio statuere paterno. </l>
-               <l n="14.166" enjamb="4">Lętitia incessit populos. Peruenit ad aures, </l>
+               <l n="14.166" enjamb="2a">Lętitia incessit populos. Peruenit ad aures, </l>
                <l n="14.167" enjamb="1">Credo, etiam uestras sonitus clangorque tubarum </l>
-               <l n="14.168" enjamb="4">Atque hominum clamor. Primatum coetus adorat </l>
-               <l n="14.169" enjamb="4">Innixum sceptro. Gaudens post talia grates </l>
-               <l n="14.170" enjamb="4"> Dauid agit superum regi, pro munere magno </l>
-               <l n="14.171" enjamb="4">Accipiens, hodie quod uiuens uiderit illum </l>
-               <l n="14.172" enjamb="4">In sedem sedisse suam regisque tulisse </l>
+               <l n="14.168" enjamb="2a">Atque hominum clamor. Primatum coetus adorat </l>
+               <l n="14.169" enjamb="2b">Innixum sceptro. Gaudens post talia grates </l>
+               <l n="14.170" enjamb="2a"> Dauid agit superum regi, pro munere magno </l>
+               <l n="14.171" enjamb="2a">Accipiens, hodie quod uiuens uiderit illum </l>
+               <l n="14.172" enjamb="2b">In sedem sedisse suam regisque tulisse </l>
                <l n="14.173">Insigne et populi plausum meruisse fauentis." </l>
-               <l n="14.174" enjamb="4">Hęc illo dicente palam conterrita mens est </l>
+               <l n="14.174" enjamb="2b">Hęc illo dicente palam conterrita mens est </l>
                <l n="14.175"> Cunctorum gelidusque pauor pręcordia pressit. </l>
-               <l n="14.176" enjamb="4">Auertunt sese taciti diuersa petentes </l>
+               <l n="14.176" enjamb="2b">Auertunt sese taciti diuersa petentes </l>
                <l n="14.177">Effugia, ut tutum iam tum sibi quisque putabat. </l>
                <note place="margin">Comparatio</note>
                <l n="14.178" enjamb="1"> Non secus atque acies, quum bello fracta refugit,</l>
-               <l n="14.179" enjamb="4">Spargit se campo: proiectis ocius armis </l>
+               <l n="14.179" enjamb="2a">Spargit se campo: proiectis ocius armis </l>
                <l n="14.180" enjamb="1"> Pręcipites currunt, illi montana capessunt, </l>
-               <l n="14.181" enjamb="4">Hi latebras siluę, compendia nota uiarum </l>
+               <l n="14.181" enjamb="2a">Hi latebras siluę, compendia nota uiarum </l>
                <l n="14.182" enjamb="1">Arripiunt alii, breuior qua cursus ad arcem, </l>
-               <l n="14.183" enjamb="4">Tutior aut callis pateat. Sic omnibus istis </l>
-               <l n="14.184" enjamb="4">Contigit, et quem lęta modo ad conuiuia regem </l>
-               <l n="14.185" enjamb="4"> Vnanimes fecere sibi, pulsante relinquunt </l>
+               <l n="14.183" enjamb="2a">Tutior aut callis pateat. Sic omnibus istis </l>
+               <l n="14.184" enjamb="2a">Contigit, et quem lęta modo ad conuiuia regem </l>
+               <l n="14.185" enjamb="2b"> Vnanimes fecere sibi, pulsante relinquunt </l>
                <l n="14.186">Corda metu, obliti fidei iurisque sacrati. </l>
                <note place="margin">Adonias</note>
-               <l n="14.187" enjamb="4"> Solus Adonias, quo se conuertat, ab omni</l>
-               <l n="14.188" enjamb="4">Iam spe depositus, nescit pactoque suorum </l>
-               <l n="14.189" enjamb="4">Deceptus pariter. Tandem tentoria sacra </l>
+               <l n="14.187" enjamb="2b"> Solus Adonias, quo se conuertat, ab omni</l>
+               <l n="14.188" enjamb="2a">Iam spe depositus, nescit pactoque suorum </l>
+               <l n="14.189" enjamb="2a">Deceptus pariter. Tandem tentoria sacra </l>
                <l n="14.190"> Irruit et cornu stantis complectitur arę. </l>
-               <l n="14.191" enjamb="1">Illic ille quidem iam tali tutus asyllo </l>
-               <l n="14.192" enjamb="4">Exposcit ueniam. Quanto nunc tutius esse </l>
-               <l n="14.193" enjamb="4">Confugium debent nobis iam sanguine Christi </l>
-               <l n="14.194" enjamb="4">Templa sacrata pio, pecudum si sparsa cruore </l>
+               <l n="14.191" enjamb="2a">Illic ille quidem iam tali tutus asyllo </l>
+               <l n="14.192" enjamb="2a">Exposcit ueniam. Quanto nunc tutius esse </l>
+               <l n="14.193" enjamb="2b">Confugium debent nobis iam sanguine Christi </l>
+               <l n="14.194" enjamb="2b">Templa sacrata pio, pecudum si sparsa cruore </l>
                <note place="margin">Confugium ad ecclesiam</note>
                <l n="14.195"> Tutata est hominem manifesti criminis ara?</l>
                <l n="14.196" enjamb="1">Non quod pręstari debet fauor ullus iniquis, </l>
@@ -7615,21 +7615,21 @@
                <note place="margin">Adonias poscit ueniam</note>
                <l n="14.201" enjamb="1"> "Fugit Adonias arcę ad tentoria sacrę</l>
                <l n="14.202" enjamb="1">Atque altare tenens ueniam uitamque precatur </l>
-               <l n="14.203" enjamb="4">Et rogat, ut regni crimen dignere cupiti </l>
-               <l n="14.204" enjamb="4">Condonare sibi, si te simul ulla cupido </l>
+               <l n="14.203" enjamb="2a">Et rogat, ut regni crimen dignere cupiti </l>
+               <l n="14.204" enjamb="2b">Condonare sibi, si te simul ulla cupido </l>
                <l n="14.205"> Regnandi tenuit, quum nondum sceptra teneres." </l>
-               <l n="14.206" enjamb="4">Respondit Salomon: "Si post hęc nulla dolosę </l>
-               <l n="14.207" enjamb="4">Crimina molitur mentis, promittimus illi </l>
+               <l n="14.206" enjamb="2b">Respondit Salomon: "Si post hęc nulla dolosę </l>
+               <l n="14.207" enjamb="2a">Crimina molitur mentis, promittimus illi </l>
                <l n="14.208" enjamb="1">Omnia tuta quidem; uiuat formidinis expers </l>
-               <l n="14.209" enjamb="4">Securusque mali. Sin quicquam fecerit ultra </l>
+               <l n="14.209" enjamb="2a">Securusque mali. Sin quicquam fecerit ultra </l>
                <l n="14.210"> Supplicio dignum, referet pro crimine poenam." </l>
                <l n="14.211" enjamb="1">Promissis istis fidens arasque relinquens, </l>
                <l n="14.212">Venit Adonias et fratrem frater adorat. </l>
-               <l n="14.213" enjamb="4">Pro uenia grates egit, seruire paratum </l>
-               <l n="14.214" enjamb="4">Sese illi dixit, cui fata sedere dedissent </l>
+               <l n="14.213" enjamb="2a">Pro uenia grates egit, seruire paratum </l>
+               <l n="14.214" enjamb="2a">Sese illi dixit, cui fata sedere dedissent </l>
                <l n="14.215">Regali in solio et populo dare iura uolenti. </l>
-               <l n="14.216" enjamb="1">Ast illi Salomon "Rebus pręstare necesse est, </l>
-               <l n="14.217" enjamb="4">Quod spondes uerbis." inquit "si pręmia ferre </l>
+               <l n="14.216" enjamb="2a">Ast illi Salomon "Rebus pręstare necesse est, </l>
+               <l n="14.217" enjamb="2a">Quod spondes uerbis." inquit "si pręmia ferre </l>
                <l n="14.218">Pro meritis cupias dignosque acquirere honores." </l>
                <note place="margin">Vesper</note>
                <l n="14.219" enjamb="1"> His dictis Agita natus, iam sole cadente </l>
@@ -7638,55 +7638,55 @@
                <note place="margin">Dauidis de Christo uaticinia</note>
                <l n="14.222" enjamb="1">Dauid uicinus fini mortique propinquus,</l>
                <l n="14.223" enjamb="1">Terrenę fecis iam expers liberque futurus, </l>
-               <l n="14.224" enjamb="4">Cęlesti magis atque magis fulgere fauore </l>
-               <l n="14.225" enjamb="4">Coepit diuinumque piis componere carmen </l>
+               <l n="14.224" enjamb="2a">Cęlesti magis atque magis fulgere fauore </l>
+               <l n="14.225" enjamb="2b">Coepit diuinumque piis componere carmen </l>
                <l n="14.226" enjamb="1">Vocibus aggressus, psalmos cantauit et hymnos</l>
                <l n="14.227" enjamb="1">Et uentura nouę prospectans tempora legis, </l>
                <l n="14.228" enjamb="1">Omnia de Christo prędixit in orbe futura: </l>
                <note place="margin">Christi mysteria</note>
-               <l n="14.229" enjamb="4">Vt cęlo genitus, terra generandus in ista</l>
-               <l n="14.230" enjamb="4">Virgineo partu, genitor foret ipse salutis </l>
-               <l n="14.231" enjamb="4">Humanę, Hebreos inter uicturus, at ipsis </l>
-               <l n="14.232" enjamb="4">Ignotus, plebi noscendus uana colenti </l>
-               <l n="14.233" enjamb="4">Falsorum simulachra deum, quibus omnibus ultro </l>
-               <l n="14.234" enjamb="1">Abiectis, ad pura sui baptismata Christi </l>
+               <l n="14.229" enjamb="2a">Vt cęlo genitus, terra generandus in ista</l>
+               <l n="14.230" enjamb="2b">Virgineo partu, genitor foret ipse salutis </l>
+               <l n="14.231" enjamb="2a">Humanę, Hebreos inter uicturus, at ipsis </l>
+               <l n="14.232" enjamb="2b">Ignotus, plebi noscendus uana colenti </l>
+               <l n="14.233" enjamb="2b">Falsorum simulachra deum, quibus omnibus ultro </l>
+               <l n="14.234" enjamb="2a">Abiectis, ad pura sui baptismata Christi </l>
                <l n="14.235" enjamb="1">Concurrent pariter dominumque deumque uocabunt, </l>
-               <l n="14.236" enjamb="1">Quem stabulo genitum nudumque et rebus egenum </l>
-               <l n="14.237" enjamb="1">Eoi proceres thus, myrrham aurumque ferentes </l>
+               <l n="14.236" enjamb="2a">Quem stabulo genitum nudumque et rebus egenum </l>
+               <l n="14.237" enjamb="2a">Eoi proceres thus, myrrham aurumque ferentes </l>
                <l n="14.238">Ore colent prono delataque munera tradent. </l>
-               <l n="14.239" enjamb="1">Cuius in aduentu leges ritusque uetusti </l>
+               <l n="14.239" enjamb="2a">Cuius in aduentu leges ritusque uetusti </l>
                <l n="14.240" enjamb="1">Obliterari habeant, luci cędentibus umbris </l>
                <l n="14.241" enjamb="1">Expediet surdis aures, uestigia claudis, </l>
                <l n="14.242" enjamb="1">Donabit cęcis uisum mutisque loquellam </l>
                <l n="14.243">Et solo lepram uerbo morbosque repellet. </l>
-               <l n="14.244" enjamb="4">Quodque magis mirum fiet, iam morte solutis </l>
-               <l n="14.245" enjamb="4">Restituet uitam rursumque animata resurgent </l>
+               <l n="14.244" enjamb="2a">Quodque magis mirum fiet, iam morte solutis </l>
+               <l n="14.245" enjamb="2b">Restituet uitam rursumque animata resurgent </l>
                <l n="14.246">Corpora, diuinas hominis testantia uires. </l>
-               <l n="14.247" enjamb="1">At neque tam miris gens impia credula gestis, </l>
+               <l n="14.247" enjamb="2a">At neque tam miris gens impia credula gestis, </l>
                <l n="14.248">Inuidię stimulis agitata, insurget in illum. </l>
-               <l n="14.249" enjamb="4">Criminis insontem damnabit, uincula collo </l>
+               <l n="14.249" enjamb="2b">Criminis insontem damnabit, uincula collo </l>
                <l n="14.250" enjamb="1">Iniiciet sacro, conuitia congeret illi </l>
-               <l n="14.251" enjamb="4">Et sputa et colaphos nudataque membra flagellis </l>
+               <l n="14.251" enjamb="2a">Et sputa et colaphos nudataque membra flagellis </l>
                <l n="14.252" enjamb="1">Pertundet spinisque caput compunget acutis </l>
-               <l n="14.253" enjamb="4">Affixumque cruci suspendet, pocula felis </l>
-               <l n="14.254" enjamb="4">Faucibus apponet sitientis, cuspide pectus </l>
-               <l n="14.255" enjamb="4">Transadiget dominumque pium per sęua peremptum </l>
+               <l n="14.253" enjamb="2a">Affixumque cruci suspendet, pocula felis </l>
+               <l n="14.254" enjamb="2a">Faucibus apponet sitientis, cuspide pectus </l>
+               <l n="14.255" enjamb="2b">Transadiget dominumque pium per sęua peremptum </l>
                <l n="14.256"> Supplicia angusto condent claudentque sepulchro. </l>
-               <l n="14.257" enjamb="4">Sed pro multorum qui talem ferre salute </l>
-               <l n="14.258" enjamb="4">Adueniet mortem, postquam monstrabit in istis </l>
-               <l n="14.259" enjamb="4">Esse hominem uerum sese, testabitur inde </l>
-               <l n="14.260" enjamb="4">Esse deum uerum: clauso qui nempe sepulchro </l>
+               <l n="14.257" enjamb="2b">Sed pro multorum qui talem ferre salute </l>
+               <l n="14.258" enjamb="2a">Adueniet mortem, postquam monstrabit in istis </l>
+               <l n="14.259" enjamb="2a">Esse hominem uerum sese, testabitur inde </l>
+               <l n="14.260" enjamb="2a">Esse deum uerum: clauso qui nempe sepulchro </l>
                <l n="14.261" enjamb="1">Exibit uiuus, uiuum lux tertia cernet </l>
                <l n="14.262" enjamb="1">Ostendetque suis. Ipsos solatus abibit, </l>
                <l n="14.263" enjamb="1">Angelico comitante choro, lętantibus astris, </l>
                <l n="14.264" enjamb="1">Ad cunctis repleta bonis cęlestia regna </l>
                <l n="14.265">Sydereamque domum, lucis loca clara perennis. </l>
-               <l n="14.266" enjamb="4">Inde iterum ueniet, circumdatus agmine multo </l>
+               <l n="14.266" enjamb="2b">Inde iterum ueniet, circumdatus agmine multo </l>
                <l n="14.267">Spirituum coetuque patrum uatumque piorum. </l>
-               <l n="14.268" enjamb="4">Quos quoque discipulos sibi legerat ipse magister </l>
-               <l n="14.269" enjamb="4">Et quos poenarum fecit patientia regno </l>
-               <l n="14.270" enjamb="4">Ętherio dignos et qui, sua iussa secuti, </l>
-               <l n="14.271">Inter sanctorum meruerunt agmina poni. </l>
+               <l n="14.268" enjamb="1">Quos quoque discipulos sibi legerat ipse magister </l>
+               <l n="14.269" enjamb="2b">Et quos poenarum fecit patientia regno </l>
+               <l n="14.270" enjamb="2a">Ętherio dignos et qui, sua iussa secuti, </l>
+               <l n="14.271" enjamb="1">Inter sanctorum meruerunt agmina poni,</l>
                <l n="14.272" enjamb="1">Omnes circa illum stabunt infraque supraque, </l>
                <l n="14.273">In dextrum leuumque latus cum lumine multo. </l>
                <l n="14.274" enjamb="1">Ille super niuea sublimis nube sedebit, </l>
@@ -7698,126 +7698,126 @@
                <l n="14.280">Inque suis psalmis nobis cantanda reliquit. </l>
                <l n="14.281" enjamb="1">Illic perlegitur quicquid uenisse fatemur, </l>
                <l n="14.282" enjamb="1">Quicquid uenturum postremo creditur ęuo, </l>
-               <l n="14.283" enjamb="4">Tam certo euentu, sanctis ut et ipse prophetis </l>
+               <l n="14.283" enjamb="2a">Tam certo euentu, sanctis ut et ipse prophetis </l>
                <l n="14.284" enjamb="1">Asscribi mereat, trino iam dignus honore: </l>
                <note place="margin">Dauid bellator, rex, propheta</note>
-               <l n="14.285" enjamb="4"> Belliger inuictus, regum rex optimus, idem</l>
-               <l n="14.286" enjamb="4">Veridicus uates. — Postquam sentire supremum </l>
-               <l n="14.287" enjamb="4">Coepit adesse diem membrisque incumbere mortem </l>
-               <l n="14.288" enjamb="4">Affectis senio, Salomoni sancta uocato </l>
+               <l n="14.285" enjamb="2b"> Belliger inuictus, regum rex optimus, idem</l>
+               <l n="14.286" enjamb="2b">Veridicus uates. — Postquam sentire supremum </l>
+               <l n="14.287" enjamb="2b">Coepit adesse diem membrisque incumbere mortem </l>
+               <l n="14.288" enjamb="2b">Affectis senio, Salomoni sancta uocato </l>
                <l n="14.289" enjamb="1">Sic orsus mandata dabat uerbisque docebat: </l>
                <l n="14.290">"Natorum Salomon charissime nate meorum!</l>
-               <l n="14.291" enjamb="4">Vltimus ecce meę consumpto tempore uitę</l>
+               <l n="14.291" enjamb="2b">Vltimus ecce meę consumpto tempore uitę</l>
                <l n="14.292" enjamb="1">Iste dies agitur neque me decedere fas est, </l>
-               <l n="14.293" enjamb="4">Si non ante tibi iam nostra in sede locato </l>
-               <l n="14.294" enjamb="4">Expediam monitus, quos serues. Accipe tandem </l>
+               <l n="14.293" enjamb="2a">Si non ante tibi iam nostra in sede locato </l>
+               <l n="14.294" enjamb="2a">Expediam monitus, quos serues. Accipe tandem </l>
                <l n="14.295">Quę nunc pręcipio et memori tibi mente teneto! </l>
                <note place="margin">Dat pręcepta Salomoni</note>
-               <l n="14.296" enjamb="4"> Iussa dei primum tibi cuncta capessere curę</l>
+               <l n="14.296" enjamb="2b"> Iussa dei primum tibi cuncta capessere curę</l>
                <l n="14.297">Sit uolo, diuinę legi parere memento. </l>
-               <l n="14.298" enjamb="4">Consulere hanc studeas, fuerint seu sacra ferenda </l>
-               <l n="14.299" enjamb="4">Grata deo, fuerint dubię seu iurgia litis </l>
+               <l n="14.298" enjamb="2b">Consulere hanc studeas, fuerint seu sacra ferenda </l>
+               <l n="14.299" enjamb="2b">Grata deo, fuerint dubię seu iurgia litis </l>
                <l n="14.300" enjamb="1">Arbitrio tollenda tuo. Committere noli, </l>
                <l n="14.301"> Committi quod iure nequit nec legibus ęquis. </l>
-               <l n="14.302" enjamb="4">Promissis confide dei, nil uerius unquam </l>
-               <l n="14.303" enjamb="4">Esse putes illo, quod sancti numinis ore </l>
-               <l n="14.304" enjamb="4">Noueris emissum. Si sic moderabere uitę </l>
-               <l n="14.305" enjamb="4">Ipse tuę sicque ipse tuos componere mores </l>
+               <l n="14.302" enjamb="2b">Promissis confide dei, nil uerius unquam </l>
+               <l n="14.303" enjamb="2a">Esse putes illo, quod sancti numinis ore </l>
+               <l n="14.304" enjamb="2b">Noueris emissum. Si sic moderabere uitę </l>
+               <l n="14.305" enjamb="2b">Ipse tuę sicque ipse tuos componere mores </l>
                <l n="14.306" enjamb="1"> Contendes, promissa deus rata stare iubebit, </l>
-               <l n="14.307" enjamb="4">Quę tribuit dicens: 'Si recto tramite uitę </l>
-               <l n="14.308" enjamb="1">Ire tuos natos uerumque fouere iuuabit </l>
-               <l n="14.309" enjamb="4">Tota animi et mentis uirtute, paterna dabuntur </l>
-               <l n="14.310" enjamb="4">Sceptra illis generique tuo prolique tuorum </l>
-               <l n="14.311" enjamb="4"> Perpetuo gaudere throno concessa potestas, </l>
-               <l n="14.312" enjamb="1">Dauid, erit.' Conare igitur, nequando querantur, </l>
-               <l n="14.313" enjamb="4">Mi Salomon, nostri de conditione nepotes </l>
+               <l n="14.307" enjamb="2a">Quę tribuit dicens: 'Si recto tramite uitę </l>
+               <l n="14.308" enjamb="2a">Ire tuos natos uerumque fouere iuuabit </l>
+               <l n="14.309" enjamb="2b">Tota animi et mentis uirtute, paterna dabuntur </l>
+               <l n="14.310" enjamb="2a">Sceptra illis generique tuo prolique tuorum </l>
+               <l n="14.311" enjamb="2b"> Perpetuo gaudere throno concessa potestas, </l>
+               <l n="14.312" enjamb="2a">Dauid, erit.' Conare igitur, nequando querantur, </l>
+               <l n="14.313" enjamb="2a">Mi Salomon, nostri de conditione nepotes </l>
                <l n="14.314" enjamb="1">In te finita, si talia foedera franges </l>
                <l n="14.315">Et pia scita dei uitio dominante repelles. </l>
-               <l n="14.316" enjamb="1"> Ergo memor legis cura punire nocentes </l>
-               <l n="14.317" enjamb="4">Et seruare pios. Causas examine iusto </l>
+               <l n="14.316" enjamb="2a"> Ergo memor legis cura punire nocentes </l>
+               <l n="14.317" enjamb="2a">Et seruare pios. Causas examine iusto </l>
                <note place="margin">Ioab</note>
-               <l n="14.318" enjamb="1">Perpendas semper. Facinus crudele Ioabi</l>
-               <l n="14.319" enjamb="4">Nosti, credo, satis, fuerit quam perfidus ille </l>
+               <l n="14.318" enjamb="2a">Perpendas semper. Facinus crudele Ioabi</l>
+               <l n="14.319" enjamb="2a">Nosti, credo, satis, fuerit quam perfidus ille </l>
                <l n="14.320">Israhelitanę geminis ductoribus alę: </l>
-               <l n="14.321" enjamb="4">Alloquio miti et uultu simulante fidelem </l>
-               <l n="14.322" enjamb="4">Ambobus nutum decęptos perdidit ictu </l>
+               <l n="14.321" enjamb="2b">Alloquio miti et uultu simulante fidelem </l>
+               <l n="14.322" enjamb="2b">Ambobus nutum decęptos perdidit ictu </l>
                <l n="14.323">Mucronis duri, qui tunc sub ueste latebat. </l>
-               <l n="14.324" enjamb="4">Hinc uelut ille ducum tranquilla in pace cruorem </l>
-               <l n="14.325" enjamb="4">Fundere non timuit, sic idem sanguine poenas </l>
+               <l n="14.324" enjamb="2a">Hinc uelut ille ducum tranquilla in pace cruorem </l>
+               <l n="14.325" enjamb="2a">Fundere non timuit, sic idem sanguine poenas </l>
                <l n="14.326"> Fac luat atque imas Herebi descendat ad umbras. </l>
                <note place="margin">Semeus</note>
                <l n="14.327" enjamb="1"> Est etiam Semeus, Geminina stirpe superbus,</l>
                <l n="14.328" enjamb="1">Qui me sacrilego lęsit temerarius ore, </l>
                <l n="14.329" enjamb="1">Probra uomens, maledicta tonans, conuitia fundens, </l>
                <l n="14.330">Quando iter arripui Castrorum moenia uersus. </l>
-               <l n="14.331" enjamb="1"> Talia dimittas, quoniam Iordanis ad amnem </l>
-               <l n="14.332" enjamb="1">Occurrit supplex nobis ueniamque precanti </l>
-               <l n="14.333" enjamb="1">Ignoui crimen. Sed quid, rogo, moribus istis </l>
-               <l n="14.334" enjamb="1">Ignouisse iuuat? Freno compesce pauoris </l>
+               <l n="14.331" enjamb="2a"> Talia dimittas, quoniam Iordanis ad amnem </l>
+               <l n="14.332" enjamb="2a">Occurrit supplex nobis ueniamque precanti </l>
+               <l n="14.333" enjamb="2a">Ignoui crimen. Sed quid, rogo, moribus istis </l>
+               <l n="14.334" enjamb="2a">Ignouisse iuuat? Freno compesce pauoris </l>
                <l n="14.335">Dissidiis assuetum animum turbasque cientem. </l>
-               <l n="14.336" enjamb="4"> Imperio parere tuo si desinet, illum </l>
+               <l n="14.336" enjamb="2a"> Imperio parere tuo si desinet, illum </l>
                <l n="14.337">Dede neci, multos male ne contaminet unus. </l>
-               <l n="14.338" enjamb="4">At bene de nobis meritis est gratia multa </l>
+               <l n="14.338" enjamb="2b">At bene de nobis meritis est gratia multa </l>
                <note place="margin">nota</note>
-               <l n="14.339" enjamb="1"> Persoluenda fide. Quum sit culpabile cunctis</l>
+               <l n="14.339" enjamb="2a"> Persoluenda fide. Quum sit culpabile cunctis</l>
                <l n="14.340" enjamb="1">Accepti ex aliis memorem non esse fauoris, </l>
                <l n="14.341">Tum dominis id turpe magis foedumque putatur. </l>
-               <l n="14.342" enjamb="4">Nam qui plura queunt, debent quoque plura referre </l>
-               <l n="14.343" enjamb="4">Multo quam accipiunt. Natos tibi Berzelai </l>
-               <l n="14.344" enjamb="4">Nunc Galladitis commendo. Semper in aula </l>
-               <l n="14.345" enjamb="4">Fac illos habitare tua mensamque sedere </l>
-               <l n="14.346" enjamb="4">Ante tuam semper. Socii comitesque fuere </l>
+               <l n="14.342" enjamb="2a">Nam qui plura queunt, debent quoque plura referre </l>
+               <l n="14.343" enjamb="2b">Multo quam accipiunt. Natos tibi Berzelai </l>
+               <l n="14.344" enjamb="2b">Nunc Galladitis commendo. Semper in aula </l>
+               <l n="14.345" enjamb="2b">Fac illos habitare tua mensamque sedere </l>
+               <l n="14.346" enjamb="2a">Ante tuam semper. Socii comitesque fuere </l>
                <l n="14.347" enjamb="1">Hi mihi, quum fugerem Absalonis tela furentis, </l>
-               <l n="14.348" enjamb="1">Fratris tela tui. Magno se offerre periclo </l>
+               <l n="14.348" enjamb="2a">Fratris tela tui. Magno se offerre periclo </l>
                <l n="14.349">Sunt ausi mecumque fide mansere perenni. </l>
-               <l n="14.350" enjamb="1">Pręterea terrę dominator et ętheris alti </l>
+               <l n="14.350" enjamb="2a">Pręterea terrę dominator et ętheris alti </l>
                <note place="margin">Vt templum condat</note>
-               <l n="14.351" enjamb="4"> Te sibi condendi lato fundamine templi</l>
+               <l n="14.351" enjamb="2b"> Te sibi condendi lato fundamine templi</l>
                <l n="14.352" enjamb="1">Deligit autorem. Tali te donat honore, </l>
-               <l n="14.353" enjamb="1">Quum sis pacis amans, non me, quia bella gerendo </l>
+               <l n="14.353" enjamb="2a">Quum sis pacis amans, non me, quia bella gerendo </l>
                <l n="14.354">Foedaui humano pollutam sanguine dextram. </l>
                <l n="14.355" enjamb="1">Fac opus eximium, tanto fac numine dignum, </l>
-               <l n="14.356" enjamb="4"> Hic ubi parua sedet moles altaris in aruo </l>
+               <l n="14.356" enjamb="2b"> Hic ubi parua sedet moles altaris in aruo </l>
                <l n="14.357">Arreunę, dudum quod nostro est ęre paratum. </l>
-               <l n="14.358" enjamb="4">Ecce ego materiam summis de montibus omnis </l>
+               <l n="14.358" enjamb="2b">Ecce ego materiam summis de montibus omnis </l>
                <l n="14.359" enjamb="1">Collegi generis, cariem spernentia ligna: </l>
                <l n="14.360" enjamb="1">Ęrias cedros, hebeni noua robora fusci </l>
-               <l n="14.361" enjamb="4">Fraxineasque trabes, ingentia marmora, multas </l>
+               <l n="14.361" enjamb="2b">Fraxineasque trabes, ingentia marmora, multas </l>
                <l n="14.362" enjamb="1">Saxorum moles, auri argentique talenta </l>
                <l n="14.363" enjamb="1">Et ferri multos et multos ęris aceruos </l>
                <l n="14.364">Fusaque de uario quam plurima uasa metallo. </l>
-               <l n="14.365" enjamb="1">Illa sacrare deo facies temploque peracto </l>
-               <l n="14.366" enjamb="4">Atque adytis templi diuinam protinus arcam </l>
+               <l n="14.365" enjamb="2a">Illa sacrare deo facies temploque peracto </l>
+               <l n="14.366" enjamb="2a">Atque adytis templi diuinam protinus arcam </l>
                <l n="14.367" enjamb="1">Induces, populi circumplaudente corona </l>
                <l n="14.368">Et caua linigeris inflantibus ęra ministris. </l>
                <l n="14.369" enjamb="1">Ipsam conueniet sanctis portare Leuitis, </l>
-               <l n="14.370" enjamb="4">Sacra nefas aliis contingere. Diuidat ordo </l>
-               <l n="14.371" enjamb="4"> Officia in cunctos: alii pia dogmata legum </l>
-               <l n="14.372" enjamb="4">Expediant, alii diuinas carmine laudes </l>
-               <l n="14.373" enjamb="4">Cantent, hi foribus pręsint, custodia gazę </l>
-               <l n="14.374" enjamb="4">Vasorumque illis detur. Solertia tali </l>
-               <l n="14.375" enjamb="4">Cuncta gubernentur te pręside, nullus in ęde </l>
+               <l n="14.370" enjamb="2a">Sacra nefas aliis contingere. Diuidat ordo </l>
+               <l n="14.371" enjamb="2a"> Officia in cunctos: alii pia dogmata legum </l>
+               <l n="14.372" enjamb="2a">Expediant, alii diuinas carmine laudes </l>
+               <l n="14.373" enjamb="2a">Cantent, hi foribus pręsint, custodia gazę </l>
+               <l n="14.374" enjamb="2a">Vasorumque illis detur. Solertia tali </l>
+               <l n="14.375" enjamb="2b">Cuncta gubernentur te pręside, nullus in ęde </l>
                <l n="14.376"> Vt locus errori reliquus sit, nullus in urbe. </l>
-               <l n="14.377" enjamb="4">Sis felix, tua regna deus sublimet, ab armis </l>
+               <l n="14.377" enjamb="2a">Sis felix, tua regna deus sublimet, ab armis </l>
                <l n="14.378" enjamb="1">Defendat, det pace frui, tibi proroget ęuum, </l>
                <l n="14.379" enjamb="1">Mittat et ex alto diuinę lumina mentis </l>
-               <l n="14.380" enjamb="4">Sinceramque fidem, firmam stabilemque bonorum </l>
-               <l n="14.381" enjamb="4">Spem promissorum, feruentem semper amorem </l>
+               <l n="14.380" enjamb="2b">Sinceramque fidem, firmam stabilemque bonorum </l>
+               <l n="14.381" enjamb="2a">Spem promissorum, feruentem semper amorem </l>
                <l n="14.382" enjamb="1">Religione sui, ut legem pręceptaque serues, </l>
-               <l n="14.383" enjamb="4">Quę patribus Mosyque dedit; seruantibus ampla </l>
+               <l n="14.383" enjamb="2b">Quę patribus Mosyque dedit; seruantibus ampla </l>
                <l n="14.384">Accedet merces, transgressis poena parata est." </l>
-               <l n="14.385" enjamb="4">Inde deo sese commendans atque supino </l>
+               <l n="14.385" enjamb="2b">Inde deo sese commendans atque supino </l>
                <note place="margin">Dauid obiit</note>
-               <l n="14.386" enjamb="1">Spectans ore polum, <corr resp="NJ">languentia</corr> membra tetendit</l>
+               <l n="14.386" enjamb="2a">Spectans ore polum, <corr resp="#NJ">languentia</corr> membra tetendit</l>
                <l n="14.387">Per thalami stratum tacitaque in morte quieuit. </l>
                <l n="14.388" enjamb="1">Regia magnifico celebrarunt funera luxu, </l>
                <l n="14.389">Cum moerore graui plebis luctuque suorum. </l>
                <note place="margin">Arx Syon ubi sepultus Dauid</note>
-               <l n="14.390" enjamb="1"> Arx erat alta iugo montis fabricata Syonis</l>
+               <l n="14.390" enjamb="2a"> Arx erat alta iugo montis fabricata Syonis</l>
                <l n="14.391" enjamb="1">Illius munita manu laudique dicata, </l>
-               <l n="14.392" enjamb="4">Vrbis pręsidium Solymę: tunc cassa calore </l>
-               <l n="14.393" enjamb="4">Ossa suo et propriis exutos sensibus artus </l>
-               <l n="14.394" enjamb="1">Traiiciunt illo, liquidis et odoribus unctos </l>
+               <l n="14.392" enjamb="2b">Vrbis pręsidium Solymę: tunc cassa calore </l>
+               <l n="14.393" enjamb="2a">Ossa suo et propriis exutos sensibus artus </l>
+               <l n="14.394" enjamb="2a">Traiiciunt illo, liquidis et odoribus unctos </l>
                <l n="14.395">Depositosque nouo tandem texere sepulchro. </l>
                <note place="margin">Regnauit annos XL</note>
                <l n="14.396" enjamb="1"> Lustra decem lustris regnans minus ille duobus,</l>
@@ -7827,31 +7827,31 @@
                <l n="14.400">Sed mage Dauidis celebratam nomine regis. </l>
                <note place="margin">Conclusio operis</note>
                <l n="14.401" enjamb="1"> Hic operis longo deducti syrmate finis,</l>
-               <l n="14.402" enjamb="4">Hic suspensa tholo sileat lyra. Diximus ecce </l>
-               <l n="14.403" enjamb="4">Quicquid bella gerens et quicquid pace quiescens </l>
-               <l n="14.404" enjamb="4">Egit Iesseides, quam fortis sęua ferendo </l>
+               <l n="14.402" enjamb="2a">Hic suspensa tholo sileat lyra. Diximus ecce </l>
+               <l n="14.403" enjamb="2a">Quicquid bella gerens et quicquid pace quiescens </l>
+               <l n="14.404" enjamb="2a">Egit Iesseides, quam fortis sęua ferendo </l>
                <l n="14.405" enjamb="1">Extitit et mitis fato meliore fruendo, </l>
-               <l n="14.406" enjamb="4"> Quam cito commissum doluit scelus, impia passus </l>
-               <l n="14.407" enjamb="4">Iurgia quam facilis dimittere tota roganti </l>
+               <l n="14.406" enjamb="2b"> Quam cito commissum doluit scelus, impia passus </l>
+               <l n="14.407" enjamb="2b">Iurgia quam facilis dimittere tota roganti </l>
                <l n="14.408">Sępe fuit quantaque deum pietate colebat. </l>
-               <l n="14.409" enjamb="4">Talia facta uiri nullus decerpere liuor </l>
+               <l n="14.409" enjamb="2a">Talia facta uiri nullus decerpere liuor </l>
                <l n="14.410">Nullaque sęclorum poterit delere uetustas. </l>
                <l n="14.411" enjamb="1"> Stabunt, Sole dies donec ueniente nitebit, </l>
                <l n="14.412" enjamb="1">Donec terra parens cum frugibus efferet herbas, </l>
                <l n="14.413">Ęra dum uolucres percurrent, ęquora pisces. </l>
-               <l n="14.414" enjamb="1">Virtutum meritis nunc felix ille suarum, </l>
+               <l n="14.414" enjamb="2a">Virtutum meritis nunc felix ille suarum, </l>
                <l n="14.415" enjamb="1">Pro fragili regno stabili dominatur in aula </l>
                <l n="14.416">Conspicuus consorsque sui super ęthera Christi. </l>
                <l n="14.417" enjamb="1">Hęc mihi cantanti non doctus fauit Apollo, </l>
                <l n="14.418" enjamb="1">Non Helicon, non turba nouem celebrata sororum, </l>
-               <l n="14.419" enjamb="1">Sed sacer ętheria delapsus spiritus arce </l>
+               <l n="14.419" enjamb="2a">Sed sacer ętheria delapsus spiritus arce </l>
                <l n="14.420" enjamb="1">Impleuit nostram diuino lumine mentem </l>
-               <l n="14.421" enjamb="4">Et uersu memorare dedit non ficta poetum </l>
+               <l n="14.421" enjamb="2b">Et uersu memorare dedit non ficta poetum </l>
                <l n="14.422" enjamb="1">Prodigia aut uarias hominum diuumque figuras, </l>
-               <l n="14.423" enjamb="4">Sed quę nostra fides scriptis testata uetustis </l>
+               <l n="14.423" enjamb="2a">Sed quę nostra fides scriptis testata uetustis </l>
                <l n="14.424">Hausit et arguto conata est promere cantu.</l>
-               <l n="14.425" enjamb="1">Illi ego Spiritui pro tali munere grates </l>
-               <l n="14.426" enjamb="1">Semper agam sanctaque simul delatus ab aura </l>
+               <l n="14.425" enjamb="2a">Illi ego Spiritui pro tali munere grates </l>
+               <l n="14.426" enjamb="2a">Semper agam sanctaque simul delatus ab aura </l>
                <l n="14.427">Littus ad optatum subducta puppe quiescam. </l>
             </div>
          </div>
