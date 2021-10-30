@@ -32,6 +32,8 @@ Enjambment in Dav. (annotated): 2624 of 3338 = **78,6%**
 | J5 (349) | 101 / 28,9% | 174 / 49,8% | 65 / 18,6% | 9 / 2,5% | 
 | J6 (441) | 114 / 25,8% | 251 / 56,9% | 62 / 14 | 14 / 3% | 
 
+![Judita, enjambements by cantos and type, chart](docs/jud-enj-all.svg)
+
 ### The Davidias
 
 | Canto (verses) | no enjamb. | type 1 | type 2a | type 2b |
@@ -43,4 +45,6 @@ Enjambment in Dav. (annotated): 2624 of 3338 = **78,6%**
 | D9 (467) | 104 / 22% | 126 / 26,9% | 145 / 31% | 92 / 19,7% |
 | D13 (432) | 80 / 18,5% | 108 / 25% | 151 / 34,9% | 93 / 21,5% |
 | D14 (427) | 79 / 18,5% | 108 / 25% | 154 / 36% | 86 / 20% |
+
+![Dauidias, enjambements by cantos and type, chart](docs/dau-enj-1-2-7-8-9-13-14.svg)
 
