@@ -8,15 +8,14 @@ Published on Zenodo.  [![DOI](https://zenodo.org/badge/336521231.svg)](https://z
 
 # Usporedba opkoračenja u Juditi i Davidijadi
 
-Na stilsku vrijednost opkoračenja u Juditi upozorili su Petar Skok 1950. (»prema uzoru latinskog slobodnog poretka u stihovima Marulić je dobio... mnoštvo enjambementa, koji su sasvim neprirodni u hrvatskim stihovima«) te, tridesetak godina kasnije, Svetozar Petrović (»pojedinačni primjeri opkoračenja u Marulićevoj Juditi najčešće se predstavljaju kao sredstvo nekog retoričkog efekta... Marulićeva upotreba opkoračenja je pažljivo zamišljen postupak«). Istražit ću koliko se i kako Marulić koristi opkoračenjima u Davidijadi, a koliko i kako u Juditi. Pritom ću definirati i primjerima prikazati vrste razmatranih opkoračenja (tri glavne skupine, od kojih najizraženija opkoračenja imaju dvije podskupine) i izvijestiti o »mapi« Marulićevih opkoračenja, nastaloj obilježavanjem digitalnih tekstova Judite i Davidijade. Pretpostavljam da su, sukladno uzusu poezije na latinskom, sve vrste opkoračenja prisutnije u Davidijadi nego u Juditi; želim provjeriti proturječne tvrdnje Skoka i Petrovića. Preliminarno istraživanje u 2126 stihova Judite bilježi 1464 opkoračenja (68%), dok u ukupno 1887 stihova prva dva i posljednja dva pjevanja Davidijade ima 1479 opkoračenja (78%). No, prave spoznaje o stilskoj vrijednosti dat će tek pomno čitanje i raščlamba.
+Na stilsku vrijednost opkoračenja u Juditi upozorili su Petar Skok 1950. (»prema uzoru latinskog slobodnog poretka u stihovima Marulić je dobio... mnoštvo enjambementa, koji su sasvim neprirodni u hrvatskim stihovima«) te, tridesetak godina kasnije, Svetozar Petrović (»pojedinačni primjeri opkoračenja u Marulićevoj Juditi najčešće se predstavljaju kao sredstvo nekog retoričkog efekta... Marulićeva upotreba opkoračenja je pažljivo zamišljen postupak«). Istražit ću koliko se i kako Marulić koristi opkoračenjima u Davidijadi, a koliko i kako u Juditi. Pritom ću definirati i primjerima prikazati vrste razmatranih opkoračenja (tri glavne skupine, od kojih najizraženija opkoračenja imaju dvije podskupine) i izvijestiti o »mapi« Marulićevih opkoračenja, nastaloj obilježavanjem digitalnih tekstova Judite i Davidijade. Pretpostavljam da su, sukladno uzusu poezije na latinskom, sve vrste opkoračenja prisutnije u Davidijadi nego u Juditi; želim provjeriti proturječne tvrdnje Skoka i Petrovića. U 2126 stihova Judite zabilježio sam 1522 opkoračenja (71,6%), dok u ukupno 3338 analiziranih stihova Davidijade zapažam 2624 opkoračenja (78,6%). No, prave spoznaje o stilskoj vrijednosti dat će tek pomno čitanje i raščlamba.
 
 # A comparison of enjambment in Judita and Davidias
 
 Enjambment in Judita has stylistic value, as noted by Petar Skok in 1950 (“following the model of Latin word order in his verses, Marulić produced... an abundance of enjambments, which are quite unnatural in Croatian verse”) and, some thirty years later, by Svetozar Petrović
 (“individual instances of enjambment in Marulić's Judita generally turn out to be means of a rhetorical effect... Marulić uses enjambement thoughtfully and by design”). I will report how, and
 to what extent, Marulić uses enjambment in the Davidias and in the Judita. To do so, I will also define and provide examples of enjambment, which can be divided into three groups (with the most marked one further divided into two subgroups), and present a digital map of Marulić's enjambements; the map is obtained by annotating instances of enjambment in the two poems. My hypothesis is that, according to literary conventions of poetry in Latin, there is more
-enjambment (of all kinds) in the Davidias than in Judita; I also want to verify the (somewhat contradictory) views of Skok and Petrović. A preliminary analysis finds 1464 enjambments in the 2126 verses of Judita (68%), and 1479 enjambements in the 1887 verses of the
-first two and the last two cantos of the Davidias. Relevant conclusions, however, can be reached only by close reading and the comparison and interpretation of individual occurrences in their contexts.
+enjambment (of all kinds) in the Davidias than in Judita; I also want to verify the (somewhat contradictory) views of Skok and Petrović. An analysis finds 1522 enjambments in the 2126 verses of Judita (71,6%), and 2624 enjambements in the 3338 analyzed verses of the Davidias. Relevant conclusions, however, can be reached only by close reading and the comparison and interpretation of individual occurrences in their contexts.
 
 ## Literatura
 
@@ -33,7 +32,7 @@ A digital version of the Davidias (and other Latin poems by Marulić) is publish
 
 # Annotation principles #
 
-The *Judita* is annotated throughout (Jud., 6 Cantos, 2126 verses). From the *Davidias* (Dav., 14 Cantos, 6765 verses) I annotated a sample containing Cantos 1, 2, 7, 8, 9 (2479 verses).
+The *Judita* is annotated throughout (Jud., 6 Cantos, 2126 verses). From the *Davidias* (Dav., 14 Cantos, 6764 verses) I annotated a sample containing Cantos 1, 2, 7, 8, 9, 13, 14 (3338 verses, some 49% of the total number).
 
 We distinguish four levels of enjambements.
 
@@ -44,15 +43,15 @@ We distinguish four levels of enjambements.
 
 # Preliminary results #
 
-Enjambment in Dav. (annotated): 1924 of 2479 = **78%**  
-Enjambent in all Jud.: 1521 of 2126 = **72%**
+Enjambment in Dav. (annotated): 2624 of 3338 = **78,6%**  
+Enjambent in all Jud.: 1522 of 2126 = **71,6%**
 
-| Enjambent type | Dav. | Jud. |
+| Enjambent type | Jud. | Dav. |
 |---- |--- |--- |
-| type 0 | 555 / 22% | 607 / 28% |
-| type 1 | 605 / 24% | 952 / 45% |
-| type 2a | 745 / 30% | 518 / 24% |
-| type 2b | 572 / 23% | 51 / 2% |
+| type 0 | 604 / 28% | 714 / 22% |
+| type 1 | 1131 / 53% | 823 / 24,6% |
+| type 2a | 339 / 16% | 1106 / 33% |
+| type 2b | 52 / 2,4% | 695 / 21% |
 
 
 See more updates and details on the special [results page](results.md).
