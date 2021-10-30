@@ -3,20 +3,20 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Judita s označenim opkoračenjima, elektronska verzija</title>
+            <title>Judita (1501/1521) s označenim opkoračenjima (2021), elektronska verzija</title>
             <author ref="marul01">
                <persName xml:lang="hr">Marulić, Marko</persName>
                <date>1450-1524</date>
             </author>
             <editor>
                <persName>
-                  <ref type="viaf" target="5178395">Bratislav Lučin</ref>
+                  <ref type="viaf" target="https://viaf.org/viaf/5178395">Bratislav Lučin</ref>
                </persName>
             </editor>
             <respStmt>
                <resp>Ovu elektronsku verziju priredio</resp>
                <persName>
-                  <ref type="viaf" target="6913774">Neven Jovanović</ref>
+                  <ref type="viaf" target="https://viaf.org/viaf/6913774">Neven Jovanović</ref>
                </persName>
             </respStmt>
          </titleStmt>
@@ -26,9 +26,11 @@
             </edition>
          </editionStmt>
          <publicationStmt>
-            <p>no publication statement available</p>
+            <p><orgName><ref type="viaf" target="https://viaf.org/viaf/124389134">Filozofski fakultet Sveučilišta u Zagrebu</ref></orgName></p>
          </publicationStmt>
          <sourceDesc>
+            <p>Istraživačko označavanje, 2021.</p>
+            <p>Digitalna verzija znanstvenog izdanja, 2017.</p>
             <p>Written by OpenOffice</p>
          </sourceDesc>
       </fileDesc>
@@ -67,8 +69,13 @@
          <listChange>
             <change>
                <name>Neven Jovanović</name>
+               <date>2021-10-25</date>
+               Revidirao opkoračenja (1 = slijedi surečenica, 2a = slabo, 2b = jako).
+            </change>
+            <change>
+               <name>Neven Jovanović</name>
                <date>2021-01-15</date>
-                     Označio opkoračenja (3 = slabo, 4 = jako).
+                     Označio opkoračenja.
                </change>
             <change>
                <name>Neven Jovanović</name>
