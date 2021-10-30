@@ -4,6 +4,8 @@ Annotated XML files and queries for comparing enjambements in two poems by Marko
 
 Annotated by [Neven Jovanović](https://orcid.org/0000-0002-9119-399X).
 
+Published on Zenodo.  [![DOI](https://zenodo.org/badge/336521231.svg)](https://zenodo.org/badge/latestdoi/336521231)
+
 # Usporedba opkoračenja u Juditi i Davidijadi
 
 Na stilsku vrijednost opkoračenja u Juditi upozorili su Petar Skok 1950. (»prema uzoru latinskog slobodnog poretka u stihovima Marulić je dobio... mnoštvo enjambementa, koji su sasvim neprirodni u hrvatskim stihovima«) te, tridesetak godina kasnije, Svetozar Petrović (»pojedinačni primjeri opkoračenja u Marulićevoj Juditi najčešće se predstavljaju kao sredstvo nekog retoričkog efekta... Marulićeva upotreba opkoračenja je pažljivo zamišljen postupak«). Istražit ću koliko se i kako Marulić koristi opkoračenjima u Davidijadi, a koliko i kako u Juditi. Pritom ću definirati i primjerima prikazati vrste razmatranih opkoračenja (tri glavne skupine, od kojih najizraženija opkoračenja imaju dvije podskupine) i izvijestiti o »mapi« Marulićevih opkoračenja, nastaloj obilježavanjem digitalnih tekstova Judite i Davidijade. Pretpostavljam da su, sukladno uzusu poezije na latinskom, sve vrste opkoračenja prisutnije u Davidijadi nego u Juditi; želim provjeriti proturječne tvrdnje Skoka i Petrovića. Preliminarno istraživanje u 2126 stihova Judite bilježi 1464 opkoračenja (68%), dok u ukupno 1887 stihova prva dva i posljednja dva pjevanja Davidijade ima 1479 opkoračenja (78%). No, prave spoznaje o stilskoj vrijednosti dat će tek pomno čitanje i raščlamba.
