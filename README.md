@@ -43,8 +43,8 @@ We distinguish four levels of enjambements.
 
 # Preliminary results #
 
-Enjambment in Dav. (annotated): 2624 of 3338 = **78,6%**  
-Enjambent in all Jud.: 1522 of 2126 = **71,6%**
+Enjambent in all Jud.: 1522 of 2126 = **71,6%**  
+Enjambment in Dav. (sample): 2624 of 3338 = **78,6%**  
 
 | Enjambent type | Jud. | Dav. |
 |---- |--- |--- |
